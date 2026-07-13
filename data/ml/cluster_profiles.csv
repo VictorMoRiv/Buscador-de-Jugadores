@@ -1,0 +1,16 @@
+﻿pos_group,cluster_id,cluster_label,n_players,players_sample,avg_goals,avg_assists,avg_minutes,avg_market_value_eur,avg_Sh,avg_SoT,avg_Int,avg_TklW,avg_Save%,avg_GA90,avg_CS
+Defensor,0,Defensor defensivo puro,37,"Ignacio Abraham, Santiago López, Giuliano Cerato",0.04,0.15,998.0,1405405.41,0.75,0.16,1.19,1.39,0.0,0.0,0.0
+Defensor,1,Defensor mixto,96,"Leonel Mosevich, Fabio Pereyra, Gastón Suso",0.01,0.01,761.91,650520.83,0.48,0.09,1.42,0.97,0.0,0.0,0.0
+Defensor,2,Defensor con proyeccion ofensiva,32,"Rodrigo Insúa, Alan Barrionuevo, Enzo Martínez",0.19,0.02,814.19,1042968.75,0.94,0.35,1.24,1.21,0.0,0.0,0.0
+Defensor,3,Defensor de bajo impacto,19,"Santiago Sosa, Francisco Álvarez, Lucas Martínez Quarta",0.05,0.01,1091.89,5105263.16,0.57,0.13,1.43,1.24,0.0,0.0,0.0
+Defensor,4,Defensor — alto market_value_eur,53,"Armando Méndez, Tomás Silva, Rodrigo González",0.0,0.01,516.62,649528.3,0.62,0.14,1.25,1.62,0.0,0.0,0.0
+Delantero,0,Delantero goleador,39,"Gabriel Ávalos, Cristian Tarragona, Mauro Méndez",0.47,0.07,718.33,1419230.77,2.43,1.15,0.19,0.48,0.0,0.0,0.0
+Delantero,1,Delantero asociativo,41,"Ronaldo Martínez, Jonathan Herrera, Facundo Bruera",0.08,0.09,474.15,985365.85,2.21,0.69,0.27,0.54,0.0,0.0,0.0
+Mediocampista,0,Mediocampista defensivo,48,"Aaron Nicolás Molinas, Facundo Lencioni, Rafael Profini",0.11,0.34,746.52,2002083.33,1.98,0.71,0.53,0.84,0.0,0.0,0.0
+Mediocampista,1,Mediocampista creador,42,"Matías Abaldo, Alex Luna, Lucas Zelarayán",0.42,0.06,571.24,1944047.62,2.05,0.87,0.51,1.03,0.0,0.0,0.0
+Mediocampista,2,Mediocampista mixto,93,"Mauro Pittón, Federico Fattori, Cristian Zabala",0.02,0.03,713.15,793010.75,0.87,0.22,1.35,1.47,0.0,0.0,0.0
+Mediocampista,3,Mediocampista ofensivo,86,"Renzo Tesuri, Leonardo Gil, Manuel Lanzini",0.06,0.03,576.12,637209.3,1.69,0.5,0.56,0.97,0.0,0.0,0.0
+Mediocampista,4,Mediocampista — alto market_value_eur,14,"Aníbal Moreno, Alexis Cuello, Tobías Andrada",0.1,0.06,1091.71,6750000.0,1.2,0.35,1.01,1.42,0.0,0.0,0.0
+Portero,0,Portero clasico,27,"Ignacio Arce, Matías Borgogno, Javier Burrai",0.0,0.0,1349.0,2007407.41,0.0,0.0,0.01,0.01,75.3,0.99,5.41
+Portero,1,Portero de salida,10,"Agustín Lastra, Gabriel Arias, Juan Espínola",0.0,0.0,421.4,280000.0,0.0,0.0,0.01,0.01,67.0,1.55,0.7
+Portero,2,Portero mixto,4,"Fernando Muslera, Fabricio Iacovich, Leandro Brey",0.0,0.0,497.25,1125000.0,0.0,0.0,0.0,0.05,86.95,0.4,3.5

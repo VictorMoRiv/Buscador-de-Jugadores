@@ -1,0 +1,91 @@
+<!-- ══════════════════════════════════════════════════
+     SECCIÓN: BUSCADOR ML
+══════════════════════════════════════════════════ -->
+<section id="section-ml" class="section active">
+
+    <div class="ml-header">
+      <div class="section-eyebrow">MACHINE LEARNING · K-MEANS CLUSTERING</div>
+      <h2 class="section-heading">Buscador por perfil de juego</h2>
+      <p class="section-sub">Seleccioná una posición para explorar los perfiles de juego detectados por el modelo.</p>
+    </div>
+
+    <div class="pos-radio-group" id="ml-pos-group">
+      <button class="pos-radio active" data-pos="Portero">Portero</button>
+      <button class="pos-radio" data-pos="Defensor">Defensor</button>
+      <button class="pos-radio" data-pos="Mediocampista">Mediocampista</button>
+      <button class="pos-radio" data-pos="Delantero">Delantero</button>
+    </div>
+
+    <div class="card card-full">
+      <div class="card-header">
+        <span class="card-title">Mapa de perfiles</span>
+        <span class="card-sub" id="ml-axis-label"></span>
+      </div>
+      <div class="card-body">
+        <canvas id="ml-scatter" height="280"></canvas>
+      </div>
+    </div>
+
+    <div class="ml-bottom-grid">
+
+      <div class="card">
+        <div class="card-header">
+          <span class="card-title">Explorar perfil</span>
+        </div>
+        <div class="card-body">
+          <select id="ml-cluster-select" class="select-input" style="width:100%;margin-bottom:16px"></select>
+          <div id="ml-cluster-info"></div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-header">
+          <span class="card-title" id="ml-cluster-title">Jugadores del perfil</span>
+        </div>
+        <div class="card-body">
+          <div class="ml-table-scroll">
+          <table class="data-table" id="ml-players-table">
+            <thead>
+              <tr><th>Jugador</th><th>Equipo</th><th>Edad</th><th>Goles</th><th>Asist.</th><th>Min.</th><th>Valor</th></tr>
+            </thead>
+            <tbody id="ml-players-body"></tbody>
+          </table>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="card card-full">
+      <div class="card-header">
+        <span class="card-title">Encontrar jugadores similares</span>
+      </div>
+      <div class="card-body">
+        <div class="similar-controls">
+          <div class="pos-radio-group" id="ml-sim-pos-group" style="width:100%">
+            <button class="pos-radio active" data-pos="Portero">Portero</button>
+            <button class="pos-radio" data-pos="Defensor">Defensor</button>
+            <button class="pos-radio" data-pos="Mediocampista">Mediocampista</button>
+            <button class="pos-radio" data-pos="Delantero">Delantero</button>
+          </div>
+          <div class="select-wrapper" style="flex:1">
+            <label class="select-label">JUGADOR DE REFERENCIA</label>
+            <select id="ml-ref-player" class="select-input"></select>
+          </div>
+          <div class="filter-group">
+            <label class="filter-label">Candidatos</label>
+            <input type="range" id="ml-n" min="3" max="12" value="6" class="range-input">
+            <span class="range-val" id="ml-n-val">6</span>
+          </div>
+          <label class="checkbox-label">
+            <input type="checkbox" id="ml-excl" checked>
+            Excluir mismo equipo
+          </label>
+          <button class="btn-primary" id="btn-ml-similar">Buscar similares</button>
+        </div>
+        <div id="ml-ref-card" class="mt-16"></div>
+        <div id="ml-similar-grid" class="candidates-grid mt-16"></div>
+      </div>
+    </div>
+
+  </section>

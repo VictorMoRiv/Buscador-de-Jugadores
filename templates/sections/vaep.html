@@ -1,0 +1,63 @@
+<!-- ══════════════════════════════════════════════════
+     SECCIÓN: VAEP
+══════════════════════════════════════════════════ -->
+<section id="section-vaep" class="section active">
+
+    <div class="section-eyebrow">VALUING ACTIONS BY ESTIMATING PROBABILITIES</div>
+    <h2 class="section-heading">VAEP — Impacto real de cada acción</h2>
+    <p class="section-sub">Modelo entrenado con event data de La Liga 2020/21 (StatsBomb) y aplicado a jugadores argentinos. VAEP/90 &gt; 0 = impacto positivo.</p>
+
+    <div class="filters-row">
+      <div class="select-wrapper">
+        <label class="select-label">EQUIPO</label>
+        <select id="vaep-team" class="select-input">
+          <option value="">Todos</option>
+        </select>
+      </div>
+      <div class="select-wrapper">
+        <label class="select-label">POSICIÓN</label>
+        <select id="vaep-pos" class="select-input">
+          <option value="">Todas</option>
+          <option>Portero</option><option>Defensor</option>
+          <option>Mediocampista</option><option>Delantero</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label class="filter-label">Min. minutos</label>
+        <input type="range" id="vaep-min" min="0" max="1500" step="50" value="200" class="range-input">
+        <span class="range-val" id="vaep-min-val">200'</span>
+      </div>
+      <button class="btn-primary" id="btn-vaep">Aplicar filtros</button>
+    </div>
+
+    <div class="vaep-charts-grid">
+      <div class="card">
+        <div class="card-header"><span class="card-title">Top 10 VAEP/90</span></div>
+        <div class="card-body"><canvas id="vaep-chart-total" height="200"></canvas></div>
+      </div>
+      <div class="card">
+        <div class="card-header"><span class="card-title">Top 10 ofensivo/90</span></div>
+        <div class="card-body"><canvas id="vaep-chart-off" height="200"></canvas></div>
+      </div>
+    </div>
+
+    <div class="card card-full">
+      <div class="card-header"><span class="card-title">Mapa ofensivo vs defensivo</span></div>
+      <div class="card-body"><canvas id="vaep-scatter" height="250"></canvas></div>
+    </div>
+
+    <div class="card card-full">
+      <div class="card-header"><span class="card-title">Ranking completo</span></div>
+      <div class="card-body">
+        <div class="vaep-table-wrap">
+          <table class="data-table" id="vaep-table">
+            <thead>
+              <tr><th>#</th><th>Jugador</th><th>Equipo</th><th>Pos</th><th>Goles</th><th>Asist.</th><th>VAEP/90</th><th>Ofensivo/90</th><th>Defensivo/90</th></tr>
+            </thead>
+            <tbody id="vaep-body"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+  </section>

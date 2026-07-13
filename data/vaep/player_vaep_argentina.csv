@@ -1,0 +1,723 @@
+﻿player,team,position,age_num,goals,assists,minutes,market_value_eur,pos_group,vaep_per90,offensive_per90,defensive_per90,vaep_rank
+Matías Abaldo,Independiente,"MF,FW",22.0,5,1,1262,5000000.0,Mediocampista,3.4898,3.2179,0.438,357
+Carlos Abeldano,Atlé Tucumán,FW,21.0,1,0,575,,Delantero,0.9802,0.7659,0.7244,676
+Ramón Ábila,Estudiantes–RC,FW,36.0,0,0,196,,Delantero,-0.2631,-0.1607,0.3125,708
+Ignacio Abraham,Banfield,"DF,MF",28.0,0,4,1440,1500000.0,Defensor,4.1928,1.0299,1.42,235
+Gonzalo Abrego,CA San Lorenzo,MF,26.0,0,0,510,1500000.0,Mediocampista,1.3391,0.0094,0.7158,658
+Gustavo Abregú,Instituto,MF,28.0,0,1,1073,600000.0,Mediocampista,2.2057,-0.5558,1.8277,585
+Jonás Acevedo,Instituto,MF,29.0,0,0,167,450000.0,Mediocampista,1.7263,-0.038,1.0775,631
+Marcos Acuña,River Plate,DF,34.0,0,1,837,1000000.0,Defensor,5.1708,0.685,2.098,105
+Valentino Acuña,Newell's,MF,20.0,0,0,295,1500000.0,Mediocampista,2.0174,0.006,1.2969,601
+Tomás Adoryán,Banfield,MF,24.0,0,1,541,350000.0,Mediocampista,3.4628,1.758,1.3765,362
+Alan Aguerre,C. Córdoba–SdE,GK,35.0,0,1,1374,175000.0,Portero,4.4833,-0.7517,1.16,196
+Mateo Aguiar,Defensa,MF,19.0,0,0,157,225000.0,Mediocampista,3.1344,0.5625,1.8837,438
+Pablo Aguiar,Gimnasia–LP,MF,20.0,0,0,148,,Mediocampista,0.5881,-0.7991,0.6073,691
+Brian Aguirre,Estudiantes–LP,MF,23.0,1,2,433,3500000.0,Mediocampista,4.4351,4.1097,0.6574,199
+Misael Aguirre,Unión,FW,18.0,0,0,201,200000.0,Delantero,0.2132,0.3966,0.1432,700
+Gabriel Alanís,Estudiantes–RC,"MF,FW",32.0,1,0,910,,Mediocampista,2.5187,0.8028,1.1999,546
+Fernando Alarcón,Instituto,DF,32.0,0,0,1125,1300000.0,Defensor,4.5281,-0.4944,2.0605,186
+Williams Alarcón,Boca Juniors,MF,25.0,0,1,323,3000000.0,Mediocampista,3.2538,0.7489,1.8629,416
+Lucas Alario,Estudiantes–LP,FW,33.0,1,0,114,250000.0,Delantero,5.573,5.3043,0.4427,68
+Rodrigo Aliendro,Vélez Sarsfield,MF,35.0,0,0,736,325000.0,Mediocampista,4.38,-0.3092,3.5211,208
+Antony Alonso,Dep. Riestra,"MF,FW",28.0,2,0,1207,1000000.0,Mediocampista,2.8169,1.338,1.1019,495
+Facundo Altamira,Defensa,MF,,0,0,166,750000.0,Mediocampista,1.5671,0.1185,0.8385,642
+Federico Álvarez,Tigre,DF,31.0,0,1,1148,500000.0,Defensor,5.9145,0.2645,2.6595,47
+Francisco Álvarez,Arg Juniors,DF,26.0,1,0,1343,4500000.0,Defensor,5.0483,0.0874,2.1991,127
+Franco Amarfil,Platense,MF,25.0,0,0,999,,Mediocampista,2.7503,-0.4497,2.2227,511
+Mikel Amondarain,Estudiantes–LP,MF,21.0,2,1,957,3500000.0,Mediocampista,2.9778,1.612,1.0588,458
+Emiliano Amor,Defensa,DF,31.0,1,0,1304,450000.0,Defensor,4.3191,0.2133,1.7316,215
+Brian Andrada,Gimnasia–M,"FW,MF",28.0,0,0,176,,Mediocampista,2.8911,0.0654,2.0035,482
+Tobías Andrada,Vélez Sarsfield,MF,19.0,1,0,1349,9000000.0,Mediocampista,3.2219,0.526,1.9825,425
+Felipe Anso,Aldosivi,MF,19.0,1,0,231,,Mediocampista,3.1397,2.5601,0.5725,437
+Fermín Antonini,Gimnasia–M,MF,28.0,0,1,755,,Mediocampista,2.8069,0.0488,1.9426,497
+Juan Antonini,Estudiantes–RC,DF,27.0,0,0,895,,Defensor,5.3137,-0.5733,2.5476,93
+Dylan Aquino,Lanús,MF,21.0,5,1,448,3500000.0,Mediocampista,8.1523,8.4239,0.9882,9
+Tomás Aranda,Boca Juniors,"MF,FW",19.0,1,2,648,9000000.0,Mediocampista,3.6629,2.2281,1.2377,326
+Danilo Arboleda,Banfield,DF,31.0,0,0,1194,800000.0,Defensor,4.1583,-0.8762,1.9528,244
+Álex Arce,Ind. Rivadavia,FW,31.0,2,0,388,3500000.0,Delantero,3.443,3.5363,0.0288,370
+Ignacio Arce,Dep. Riestra,GK,34.0,0,0,1440,800000.0,Portero,4.8037,-0.9257,1.3213,155
+Gabriel Arias,Newell's,GK,38.0,0,0,612,200000.0,Portero,3.2513,-1.0,0.6269,417
+Junior Arias,Aldosivi,FW,33.0,0,0,714,,Delantero,0.1194,0.0465,0.5651,704
+Matías Arias,Vélez Sarsfield,MF,19.0,0,1,137,50000.0,Mediocampista,3.6557,2.8717,0.8076,327
+Ramón Arias,Tigre,DF,33.0,0,0,293,200000.0,Defensor,5.052,-0.6472,2.4145,126
+Santiago Arias,Independiente,DF,34.0,0,2,824,1200000.0,Defensor,6.2307,0.4697,2.7868,33
+Joaquín Ariel Novillo,Aldosivi,DF,28.0,0,0,654,,Defensor,3.7132,-0.6324,1.619,316
+Blas Armoa,Gimnasia–M,FW,26.0,1,0,252,,Delantero,2.5379,2.7401,-0.0744,543
+Gaston Arturia,Sarmiento–J,DF,26.0,0,0,416,200000.0,Defensor,2.6965,-0.5816,1.0035,516
+Santiago Ascacíbar,Estudiantes–LP,MF,29.0,0,0,90,5500000.0,Mediocampista,5.7058,-0.6003,4.8445,56
+Santiago Ascacíbar,Boca Juniors,MF,29.0,2,0,852,5500000.0,Mediocampista,4.3602,1.4771,2.3276,212
+Rodrigo Atencio,Ind. Rivadavia,"MF,FW",23.0,0,4,649,2000000.0,Mediocampista,2.4678,1.8852,0.4435,555
+Agustín Auzmendi,Gimnasia–LP,FW,29.0,2,2,588,1200000.0,Delantero,4.1564,3.6784,0.8951,245
+Rodrigo Auzmendi,CA San Lorenzo,FW,25.0,3,0,398,3000000.0,Delantero,6.2051,5.9476,0.3735,36
+Rodrigo Auzmendi,Banfield,FW,25.0,0,0,187,3000000.0,Delantero,0.2153,0.1746,0.5054,699
+Gabriel Ávalos,Independiente,FW,35.0,9,5,1414,750000.0,Delantero,4.8268,4.7013,0.2712,150
+Gastón Ávila,Rosario Central,DF,24.0,1,1,739,3500000.0,Defensor,5.6219,0.9484,2.2881,63
+Renzo Bacchia,Estudiantes–RC,GK,27.0,0,0,450,,Portero,2.7045,-1.0,0.3798,515
+Gabriel Báez,Talleres–C,DF,30.0,0,0,487,600000.0,Defensor,3.4312,-0.3287,1.3643,377
+Claudio Baeza,Vélez Sarsfield,MF,32.0,0,0,925,1600000.0,Mediocampista,2.9702,-0.6647,2.552,460
+Mateo Bajamich,Estudiantes–RC,FW,26.0,1,0,812,,Delantero,1.4439,1.2198,0.7031,648
+Éver Banega,Defensa,MF,37.0,0,0,355,400000.0,Mediocampista,1.6726,-0.0901,1.066,635
+Nahuel Banegas,Tigre,DF,29.0,0,0,292,750000.0,Defensor,3.6293,0.277,1.3056,334
+Miguel Barbieri,Dep. Riestra,DF,32.0,0,0,566,350000.0,Defensor,5.0775,-0.5126,2.3905,123
+David Barbona,Defensa,FW,31.0,1,0,284,450000.0,Delantero,2.6378,2.7004,0.1432,531
+Nahuel Barboza,Gimnasia–M,MF,26.0,0,0,583,,Mediocampista,1.9982,-0.8152,1.8215,604
+Renzo Miguel Orihuela Barcos,Sarmiento–J,DF,25.0,0,0,495,,Defensor,4.5104,-0.5065,2.0536,189
+Adam Bareiro,Boca Juniors,FW,29.0,3,1,675,4000000.0,Delantero,4.2314,3.8009,0.8123,230
+Juan Barinaga,Boca Juniors,DF,25.0,0,0,710,2800000.0,Defensor,5.1622,-0.188,2.3463,106
+Williams Barlasina,Newell's,GK,27.0,0,0,378,150000.0,Portero,3.7172,-0.9603,0.8336,315
+Giovanni Baroni,Talleres–C,"MF,FW",17.0,0,3,646,2500000.0,Mediocampista,3.9966,2.5827,1.2889,269
+Diego Barrera,C. Córdoba–SdE,"MF,DF",21.0,3,0,1049,800000.0,Defensor,4.2623,2.3895,1.0665,224
+Alan Barrionuevo,Tigre,DF,29.0,2,2,1350,1800000.0,Defensor,4.7449,0.9658,1.7649,163
+Martín Barrios,Platense,MF,27.0,0,0,297,300000.0,Mediocampista,1.1393,-0.6641,0.9889,666
+Nahuel Barrios,CA San Lorenzo,MF,28.0,0,1,247,900000.0,Mediocampista,3.7476,2.0508,1.4268,310
+Rafael Barrios,Barracas Central,"MF,DF",33.0,0,0,497,75000.0,Defensor,4.7807,-0.4829,2.2065,157
+Bautista Barros Schelotto,Gimnasia–LP,DF,26.0,0,0,100,150000.0,Defensor,1.84,0.1652,0.2807,626
+Tomás Belmonte,Boca Juniors,MF,28.0,0,0,598,3000000.0,Mediocampista,2.8249,-0.3091,2.1937,494
+Santiago Beltrán,River Plate,GK,21.0,0,0,1395,9000000.0,Portero,3.8554,-0.9892,0.8988,290
+Gastón Benedetti,Estudiantes–LP,DF,25.0,0,2,1117,2000000.0,Defensor,4.134,0.0564,1.6678,249
+Nicolás Benegas,Dep. Riestra,FW,30.0,1,0,446,450000.0,Delantero,1.9931,2.1469,0.0476,605
+Alcides Benítez,Belgrano,"MF,DF",23.0,0,0,992,1800000.0,Defensor,7.154,-0.0777,3.4912,19
+Martín Benítez,Atlé Tucumán,FW,32.0,1,0,95,400000.0,Delantero,7.9691,6.35,2.433,12
+Lucas Besozzi,Lanús,MF,23.0,0,2,282,350000.0,Mediocampista,3.1299,2.8592,0.3671,440
+Juan Bisanz,Huracán,"MF,FW",24.0,2,1,444,1500000.0,Mediocampista,3.8132,4.4256,-0.0816,299
+Lautaro Blanco,Boca Juniors,DF,27.0,1,0,1091,4000000.0,Defensor,6.8008,1.2877,2.8863,22
+Lucas Blondel,Huracán,"MF,DF",29.0,1,0,647,1500000.0,Defensor,5.571,0.675,2.3374,69
+Roberto Bochi,Aldosivi,MF,38.0,0,0,672,,Mediocampista,2.7764,-0.8566,2.513,503
+Rodrigo Bogarín,Barracas Central,MF,29.0,0,0,159,350000.0,Mediocampista,3.1842,1.3859,1.3839,430
+Nicolás Bolcato,Ind. Rivadavia,GK,22.0,0,0,1337,2200000.0,Portero,3.7533,-0.9552,0.8495,308
+Ezequiel Bonifacio,Ind. Rivadavia,DF,32.0,0,1,520,100000.0,Defensor,4.8858,-0.1295,2.166,145
+Matías Borgogno,Platense,GK,27.0,0,0,1440,2800000.0,Portero,4.258,-0.9374,1.0758,226
+Rubén Botta,Defensa,"MF,FW",36.0,1,1,849,275000.0,Mediocampista,3.8351,1.573,1.8162,295
+Tomás Bottari,Ind. Rivadavia,MF,25.0,0,0,780,1800000.0,Mediocampista,1.8642,-0.7046,1.6343,623
+Walter Bou,Lanús,FW,32.0,2,0,578,750000.0,Delantero,2.3064,1.941,0.8619,578
+Mariano Bracamonte,Dep. Riestra,"DF,MF",27.0,1,0,411,100000.0,Defensor,4.5838,1.9702,1.3782,180
+Malcom Braida,Boca Juniors,DF,29.0,0,0,353,2500000.0,Defensor,8.32,-0.2592,4.2329,8
+Agustin Bravo,Instituto,DF,25.0,0,0,107,50000.0,Defensor,4.4915,-0.8609,2.1453,195
+Claudio Bravo,Arg Juniors,DF,29.0,0,0,134,600000.0,Defensor,8.7329,-0.5879,4.5722,7
+Néstor Breitenbruch,Aldosivi,DF,30.0,0,0,270,,Defensor,3.4403,-0.7637,1.4959,372
+Leandro Brey,Boca Juniors,GK,23.0,0,0,369,1500000.0,Portero,4.2042,-1.0,1.0575,233
+Norberto Briasco,Barracas Central,"FW,MF",30.0,1,0,460,200000.0,Mediocampista,3.4078,1.8835,1.2469,381
+Manuel Brondo,Atlé Tucumán,FW,24.0,0,0,97,25000.0,Delantero,1.4223,1.0233,0.9876,649
+Jorge Broun,Rosario Central,GK,40.0,0,0,360,100000.0,Portero,4.0147,-0.9583,0.9679,264
+Facundo Bruera,Barracas Central,FW,27.0,1,1,948,1800000.0,Delantero,1.1169,1.4139,-0.1134,671
+Leonel Bucca,Ind. Rivadavia,MF,27.0,4,0,247,700000.0,Mediocampista,10.0,10.0,1.5271,1
+Joaquín Burgos,Estudiantes–LP,MF,21.0,0,2,323,,Mediocampista,4.3101,2.6311,1.5246,216
+Javier Burrai,Sarmiento–J,GK,35.0,0,0,1440,175000.0,Portero,4.995,-0.9687,1.4118,131
+Felipe Bussio,Platense,MF,22.0,0,0,505,400000.0,Mediocampista,2.6768,-0.8182,2.4027,519
+Fabricio Bustos,River Plate,DF,30.0,0,0,180,2000000.0,Defensor,5.8713,-0.5395,2.8673,49
+Luciano Cabral,Independiente,MF,31.0,1,0,251,1000000.0,Mediocampista,3.4288,2.9629,0.5539,379
+Alejandro Cabrera,Estudiantes–RC,MF,33.0,0,0,710,,Mediocampista,2.9389,-0.3669,2.3291,472
+Bruno Cabrera,Lanús,MF,22.0,0,0,303,175000.0,Mediocampista,1.2724,0.2188,0.5209,660
+Bruno Cabrera,Lanús,MF,22.0,0,0,303,175000.0,Mediocampista,1.2724,0.2188,0.5209,660
+Bruno Cabrera,Lanús,MF,22.0,0,0,303,700000.0,Mediocampista,1.2724,0.2188,0.5209,660
+Bruno Cabrera,Lanús,MF,22.0,0,0,303,700000.0,Mediocampista,1.2724,0.2188,0.5209,660
+Bruno Cabrera,Newell's,DF,29.0,0,0,334,175000.0,Defensor,2.5909,-0.5266,0.9252,536
+Bruno Cabrera,Newell's,DF,29.0,0,0,334,175000.0,Defensor,2.5909,-0.5266,0.9252,536
+Bruno Cabrera,Newell's,DF,29.0,0,0,334,700000.0,Defensor,2.5909,-0.5266,0.9252,536
+Bruno Cabrera,Newell's,DF,29.0,0,0,334,700000.0,Defensor,2.5909,-0.5266,0.9252,536
+Elías Cabrera,Tigre,MF,23.0,0,0,555,1800000.0,Mediocampista,2.4107,0.4618,1.3325,562
+Máximo Cabrera,Gimnasia–LP,GK,19.0,0,0,90,,Portero,2.316,-1.0,0.2043,574
+Darío Cáceres,Defensa,"MF,DF",28.0,0,0,308,200000.0,Defensor,5.1034,0.2879,2.1734,120
+Mateo Caceres,Talleres–C,MF,23.0,0,0,647,700000.0,Mediocampista,2.3552,-0.2438,1.7499,571
+Jordy Caicedo,Huracán,FW,28.0,8,0,1322,2000000.0,Delantero,3.4385,3.6159,-0.1069,374
+Facundo Cambeses,Racing Club,GK,29.0,0,0,1440,5000000.0,Portero,3.5952,-0.9687,0.7793,339
+Jaminton Campaz,Rosario Central,"MF,FW",26.0,1,4,729,5500000.0,Mediocampista,5.9207,5.2913,1.147,46
+Gastón Campi,Barracas Central,DF,35.0,0,0,542,125000.0,Defensor,4.8625,-0.9409,2.3877,147
+Ignacio Campo,Huracán,DF,21.0,1,1,585,300000.0,Defensor,4.6049,1.4895,1.5302,178
+José Canale,Lanús,DF,29.0,0,0,1080,2200000.0,Defensor,3.8906,-0.7033,1.7444,288
+Jhonatan Candia,Barracas Central,FW,31.0,1,0,751,700000.0,Delantero,0.9579,0.977,0.3488,677
+Ezequiel Cannavo,Racing Club,DF,24.0,0,0,1146,3000000.0,Defensor,5.1124,-0.5669,2.4268,118
+Giovanni Cantizano,Rosario Central,MF,19.0,0,0,106,1000000.0,Mediocampista,3.638,3.302,0.509,332
+Nicolás Capraro,Barracas Central,DF,28.0,0,0,997,750000.0,Defensor,4.135,-0.6586,1.8758,248
+Valentin Carboni,Racing Club,FW,21.0,0,0,202,7500000.0,Delantero,-0.0961,-0.5055,1.1266,706
+Mauricio Cardillo,CA San Lorenzo,MF,23.0,0,0,225,450000.0,Mediocampista,2.3612,-0.6011,1.9903,570
+Agustín Cardozo,Lanús,MF,29.0,0,1,1156,2500000.0,Mediocampista,1.8553,-0.3863,1.417,625
+Juan Cardozo,C. Córdoba–SdE,MF,22.0,0,0,522,200000.0,Mediocampista,0.9128,-0.9137,0.96,679
+Thiago Cardozo,Belgrano,GK,29.0,0,0,1440,3200000.0,Portero,4.1918,-0.9478,1.0469,236
+Lautaro Carrera,Gimnasia–M,DF,23.0,0,0,374,,Defensor,5.3674,-0.9205,2.6801,88
+Ramiro Carrera,Lanús,"MF,FW",32.0,2,3,965,1000000.0,Mediocampista,3.7683,2.4502,1.1814,305
+Guido Carrillo,Estudiantes–LP,FW,35.0,1,1,891,300000.0,Delantero,1.8081,1.8666,0.2166,627
+Lucas Carrizo,Huracán,"DF,MF",29.0,0,0,910,800000.0,Defensor,4.2766,-0.4177,1.8897,222
+Yuri Casermeiro,C. Córdoba–SdE,DF,24.0,0,0,528,175000.0,Defensor,5.5977,-0.7688,2.7721,65
+Kevin Castaño,River Plate,MF,25.0,0,0,96,5000000.0,Mediocampista,3.4155,-0.3743,2.7408,380
+Rodrigo Castillo,Lanús,FW,27.0,1,3,358,,Delantero,5.3911,4.7569,1.0482,84
+Alexis Castro,Estudiantes–LP,MF,31.0,3,0,605,1200000.0,Mediocampista,5.4755,3.2615,2.1041,75
+Lucas Castro,Gimnasia–LP,MF,37.0,0,0,295,125000.0,Mediocampista,3.4553,0.0359,2.5045,366
+Matías Catalán,Talleres–C,DF,33.0,0,2,1278,500000.0,Defensor,3.5275,-0.2263,1.3914,349
+Edinson Cavani,Boca Juniors,FW,39.0,0,0,104,500000.0,Delantero,-1.0,-0.8609,0.3125,712
+Julián Ceballos,Gimnasia–M,MF,21.0,0,1,427,,Mediocampista,3.924,0.9565,2.2981,281
+Giuliano Cerato,Instituto,"MF,DF",28.0,2,1,1425,1200000.0,Defensor,5.2404,1.5659,1.8835,101
+Ezequiel Cerutti,CA San Lorenzo,"MF,FW",34.0,0,0,427,150000.0,Mediocampista,1.0959,0.788,-0.0047,672
+Edwuin Cetré,Estudiantes–LP,MF,28.0,0,1,603,3500000.0,Mediocampista,3.1605,2.4529,0.6608,432
+Ignacio Charparin,Gimnasia–M,"FW,MF",26.0,0,2,325,,Mediocampista,2.3101,2.1377,0.1426,576
+Ignacio Chicco,Aldosivi,GK,29.0,0,0,90,,Portero,4.9407,-1.0,1.3903,136
+Diego Churín,Sarmiento–J,"FW,MF",36.0,2,0,690,75000.0,Mediocampista,2.5675,1.8475,0.5534,540
+Luciano Cingolani,Gimnasia–M,FW,25.0,1,0,241,,Delantero,6.2743,4.7962,2.3416,32
+Facundo Cobos,Estudiantes–RC,DF,33.0,1,0,563,,Defensor,6.5846,1.8178,2.6047,27
+Matías Cóccaro,Newell's,"FW,MF",28.0,1,0,587,2000000.0,Mediocampista,2.3637,1.2545,0.7701,569
+Agustín Colazo,Unión,FW,25.0,1,0,183,350000.0,Delantero,4.8943,4.0293,1.4613,143
+Nicolás Colazo,Banfield,MF,35.0,0,0,99,25000.0,Mediocampista,2.7603,0.317,1.7262,506
+Facundo Colidio,River Plate,"FW,MF",26.0,3,1,801,5000000.0,Mediocampista,3.4394,3.0496,0.5059,373
+Nazareno Colombo,Racing Club,DF,27.0,0,0,418,2800000.0,Defensor,3.1883,-0.3917,1.239,429
+Gabriel Compagnucci,Atlé Tucumán,"MF,DF",34.0,0,1,371,125000.0,Defensor,3.4525,1.3483,0.8902,368
+Tomás Conechny,Racing Club,"FW,MF",28.0,3,2,762,2500000.0,Mediocampista,4.0102,3.3704,0.7817,265
+Germán Conti,Gimnasia–LP,DF,32.0,0,0,188,150000.0,Defensor,5.4392,-1.0,2.7456,79
+Julián Contrera,Sarmiento–J,"MF,FW",23.0,0,2,908,500000.0,Mediocampista,2.6289,1.3789,0.9145,532
+Enzo Copetti,Rosario Central,"FW,MF",30.0,4,0,616,2500000.0,Mediocampista,4.6314,4.1553,0.7949,173
+Nicolás Cordero,Aldosivi,"FW,MF",27.0,1,0,820,,Mediocampista,1.6355,0.7694,0.4681,637
+Jhon Córdoba,Instituto,"MF,FW",25.0,1,0,841,1200000.0,Mediocampista,3.155,1.3304,1.3955,435
+Alan Coria,Defensa,MF,19.0,0,0,119,,Mediocampista,2.0239,1.2336,0.4939,600
+Emanuel Coronel,Rosario Central,DF,29.0,0,0,681,2700000.0,Defensor,4.9343,-0.3311,2.2531,137
+Kevin Coronel,Arg Juniors,DF,21.0,0,0,538,200000.0,Defensor,3.847,0.4721,1.3776,293
+Brayan Cortés,Arg Juniors,GK,31.0,0,0,1440,2000000.0,Portero,3.2905,-1.0,0.6446,405
+Oscar Cortés,Huracán,"MF,FW",22.0,1,4,1010,2500000.0,Mediocampista,3.487,2.2681,1.0612,359
+Ismael Cortéz,Gimnasia–M,DF,24.0,0,0,266,,Defensor,3.8408,-0.3371,1.6087,294
+Guzmán Corujo,CA San Lorenzo,DF,29.0,0,0,192,200000.0,Defensor,2.833,-0.7517,1.1336,491
+Ayrton Costa,Boca Juniors,DF,26.0,0,0,1080,5000000.0,Defensor,4.1623,-0.724,1.911,242
+Leonard Costa,Ind. Rivadavia,DF,27.0,1,1,1064,1000000.0,Defensor,4.1618,0.3469,1.5999,243
+Tiago Cravero,C. Córdoba–SdE,MF,23.0,0,0,629,250000.0,Mediocampista,4.5067,-0.7254,3.9034,190
+Diego Crego,Ind. Rivadavia,FW,29.0,0,0,246,250000.0,Delantero,1.0447,0.5089,1.2391,674
+Franco Cristaldo,Talleres–C,MF,29.0,0,2,569,3500000.0,Mediocampista,1.6693,0.8221,0.4622,636
+Alexis Cuello,CA San Lorenzo,"FW,MF",26.0,4,3,1367,5000000.0,Mediocampista,3.3916,2.6501,0.7282,386
+Brian Cuello,Unión,MF,28.0,2,0,725,,Mediocampista,3.5715,2.1705,1.1976,344
+Víctor Cuesta,Platense,DF,37.0,0,0,810,200000.0,Defensor,4.0049,-0.4331,1.7336,266
+Juan Dadin,Ind. Rivadavia,FW,20.0,0,0,104,,Delantero,0.4763,0.1592,0.9313,695
+Santiago Dalmasso,Platense,MF,22.0,0,0,119,100000.0,Mediocampista,1.3507,0.1636,0.6241,657
+Santiago Daniele,Banfield,DF,20.0,0,1,252,50000.0,Defensor,9.228,0.4876,4.5527,5
+Jonathan David Gómez,Sarmiento–J,"MF,FW",36.0,1,1,508,,Mediocampista,3.3608,2.2882,0.9402,395
+Héctor David Martínez,Defensa,DF,28.0,0,1,929,,Defensor,5.242,-0.2485,2.411,100
+Álvaro David Montero,Vélez Sarsfield,GK,31.0,0,0,1440,,Portero,5.2762,-0.9896,1.5409,96
+Valentín Dávila,Talleres–C,FW,19.0,4,0,552,1500000.0,Delantero,5.3937,5.2047,0.3282,83
+Facundo De La Vega,Aldosivi,FW,23.0,0,0,145,,Delantero,-0.5766,-0.0263,-0.3864,709
+Mathías De Ritis,CA San Lorenzo,"DF,MF",23.0,0,2,796,1000000.0,Defensor,5.4607,0.6316,2.2848,77
+Ronaldo Dejesús,Lanús,DF,25.0,0,0,545,1300000.0,Defensor,3.3618,-0.6487,1.4161,394
+Mateo Del Blanco,Unión,"DF,MF",22.0,2,1,1393,5000000.0,Defensor,5.5385,2.8256,1.6941,72
+Milton Delgado,Boca Juniors,MF,21.0,0,1,904,10000000.0,Mediocampista,2.2856,-0.3488,1.7595,580
+Nicolás Demartini,Barracas Central,DF,26.0,1,1,900,1000000.0,Defensor,5.6496,2.1955,1.9426,61
+Valentín Depietri,Talleres–C,"FW,MF",25.0,1,0,340,500000.0,Mediocampista,3.9073,2.4773,1.2821,284
+José Devecchi,CA San Lorenzo,GK,30.0,0,0,180,400000.0,Portero,2.6512,-0.9165,0.3478,529
+Marco Di Cesare,Racing Club,DF,24.0,2,0,1068,6000000.0,Defensor,4.4221,0.7772,1.6289,201
+Lautaro Di Lollo,Boca Juniors,DF,22.0,1,0,1080,7000000.0,Defensor,4.6118,0.1059,1.9358,176
+Ángel Di María,Rosario Central,MF,38.0,4,3,765,1800000.0,Mediocampista,6.7571,6.3428,1.1682,24
+Leonel Di Plácido,Atlé Tucumán,"DF,MF",32.0,0,0,575,200000.0,Defensor,5.1312,-0.272,2.3524,112
+Alexander Díaz,Dep. Riestra,"FW,MF",26.0,0,0,615,800000.0,Mediocampista,1.9863,0.5928,0.8839,607
+Diego Díaz,Unión,FW,24.0,1,0,100,150000.0,Delantero,6.0998,5.905,0.2807,40
+Gabriel Díaz,Sarmiento–J,"MF,DF",26.0,0,0,257,450000.0,Defensor,1.974,-0.3917,0.5215,610
+Leandro Díaz,Atlé Tucumán,FW,34.0,5,1,1077,400000.0,Delantero,3.2809,3.3553,0.0725,409
+Paulo Díaz,River Plate,DF,31.0,0,0,197,2000000.0,Defensor,5.4128,-0.8333,2.6816,80
+Javier Dominguez,Atlé Tucumán,MF,26.0,0,0,686,450000.0,Mediocampista,2.826,-0.3566,2.226,493
+Sebastián Driussi,River Plate,"FW,MF",30.0,4,0,856,4500000.0,Mediocampista,4.07,3.3335,0.857,258
+Gaspar Duarte,Rosario Central,"MF,FW",23.0,0,0,415,900000.0,Mediocampista,2.0787,0.7879,0.8343,597
+Jalil Elías,Tigre,MF,30.0,1,0,1214,1800000.0,Mediocampista,2.7088,0.1674,1.7807,514
+Guillermo Enrique,Aldosivi,DF,26.0,0,0,287,,Defensor,5.9323,0.6659,2.5535,45
+Gonzalo Errecalde,Gimnasia–LP,DF,26.0,0,0,149,175000.0,Defensor,1.8837,-0.8824,0.6105,621
+Simon Escobar,Vélez Sarsfield,DF,16.0,0,0,90,,Defensor,8.0842,0.3065,3.9294,10
+Juan Espínola,Barracas Central,GK,31.0,0,0,461,700000.0,Portero,3.653,-0.9673,0.8053,328
+Marcelo Esponda,Newell's,MF,23.0,0,0,181,225000.0,Mediocampista,1.4885,-0.2375,1.0059,646
+Santiago Esquivel,Banfield,MF,22.0,0,0,439,350000.0,Mediocampista,1.3856,-0.7006,1.2231,655
+Marcelo Estigarribia,Unión,FW,31.0,4,1,1129,1000000.0,Delantero,3.2263,3.244,0.1685,423
+Yair Ezequiel Arismendi,Sarmiento–J,"MF,DF",28.0,0,0,599,,Defensor,3.6232,-0.0186,1.3877,336
+Agustín Falcón,Belgrano,"DF,MF",21.0,0,0,90,100000.0,Defensor,3.2862,-0.8454,1.4285,407
+Facundo Farías,Estudiantes–LP,"MF,FW",23.0,0,0,308,2500000.0,Mediocampista,2.058,0.8286,0.7898,598
+Valentín Fascendini,Unión,DF,23.0,0,0,275,1300000.0,Defensor,2.5513,-0.8278,0.9892,542
+Federico Fattori,Arg Juniors,MF,33.0,0,0,1363,600000.0,Mediocampista,2.162,-0.5468,1.7845,590
+Juan Fedorco,Independiente,DF,25.0,1,0,503,700000.0,Defensor,5.2157,1.059,2.016,102
+Adrián Fernández,Racing Club,"MF,FW",25.0,1,1,620,700000.0,Mediocampista,3.6357,1.582,1.64,333
+Damián Fernández,Defensa,DF,25.0,0,0,863,1800000.0,Defensor,6.2209,-0.8216,3.1558,34
+Damián Fernández,Defensa,DF,25.0,0,0,863,1800000.0,Defensor,6.2209,-0.8216,3.1558,34
+Damián Fernández,Defensa,DF,25.0,0,0,863,,Defensor,6.2209,-0.8216,3.1558,34
+Damián Fernández,Defensa,DF,25.0,0,0,863,,Defensor,6.2209,-0.8216,3.1558,34
+Esteban Fernández,Gimnasia–M,"MF,FW",24.0,0,0,386,,Mediocampista,2.3241,-0.2749,1.7438,573
+Ignacio Fernández,Gimnasia–LP,"MF,FW",36.0,2,2,1101,,Mediocampista,3.5248,2.2971,1.0743,351
+Julián Fernández,Rosario Central,"MF,FW",22.0,1,2,700,3800000.0,Mediocampista,3.3643,1.8706,1.2183,392
+Leandro Fernández,Arg Juniors,FW,35.0,0,0,149,300000.0,Delantero,1.4026,1.2377,0.6105,652
+Matías Fernández,Ind. Rivadavia,"MF,FW",24.0,2,2,976,3000000.0,Mediocampista,3.2873,2.6803,0.6192,406
+Nicolás Fernández,Belgrano,FW,30.0,1,4,853,3000000.0,Delantero,2.7828,2.5179,0.661,502
+Rodrigo Fernández,Independiente,MF,30.0,0,0,479,,Mediocampista,2.6563,-0.5385,2.2009,528
+Santiago Fernández,Talleres–C,DF,21.0,0,0,1035,4500000.0,Defensor,3.9263,-0.6013,1.7359,280
+Tomás Fernández,Aldosivi,MF,27.0,1,0,424,25000.0,Mediocampista,4.068,1.9307,1.7793,259
+Gianluca Ferrari,Atlé Tucumán,DF,28.0,0,0,722,350000.0,Defensor,3.3474,-0.5181,1.3697,398
+Clever Ferreira,Atlé Tucumán,DF,23.0,1,0,745,1000000.0,Defensor,4.3032,0.5347,1.629,217
+Javier Ferreira,Estudiantes–RC,FW,34.0,0,0,437,,Delantero,0.8785,0.6637,0.7335,681
+Pablo Ferreira,Platense,MF,21.0,0,0,313,350000.0,Mediocampista,3.4895,-0.6703,2.9989,358
+Brian Ferreyra,Gimnasia–M,FW,29.0,0,0,241,,Delantero,0.1452,-0.0277,0.7246,702
+Cristopher Fiermarin,Defensa,GK,28.0,0,0,1440,1700000.0,Portero,3.3986,-0.9478,0.6885,385
+Jorge Figal,Boca Juniors,DF,32.0,0,0,360,,Defensor,5.8814,-0.5188,2.8673,48
+Jose Florentín,Ind. Rivadavia,MF,29.0,3,0,1284,2200000.0,Mediocampista,4.1166,1.4159,2.16,251
+Gonzalo Flores,Dep. Riestra,MF,24.0,0,0,139,200000.0,Mediocampista,1.9544,-0.0521,1.2815,613
+Joaquin Flores,C. Córdoba–SdE,MF,21.0,0,0,97,50000.0,Mediocampista,1.9147,1.042,0.5269,620
+Matias Fonseca,Instituto,FW,25.0,1,0,553,350000.0,Delantero,0.8183,1.1623,-0.1653,682
+Ezequiel Forclaz,Estudiantes–RC,MF,23.0,0,0,105,,Mediocampista,0.8155,-0.0126,0.2834,683
+Franco Fragapane,Unión,MF,33.0,0,0,191,450000.0,Mediocampista,1.5687,1.1883,0.1351,641
+Juan Franco Arrellaga,Gimnasia–M,DF,34.0,0,0,314,,Defensor,5.5319,-0.2187,2.5736,73
+Joaquín Freitas,River Plate,"FW,MF",19.0,1,1,449,1000000.0,Mediocampista,2.4855,2.3857,0.129,553
+Ramiro Funes Mori,Estudiantes–LP,DF,35.0,0,0,252,25000.0,Defensor,3.7626,-0.9404,1.7376,306
+Adolfo Gaich,Estudiantes–LP,FW,27.0,3,1,331,1000000.0,Delantero,6.7439,6.5602,0.211,25
+Matías Galarza,Talleres–C,MF,24.0,0,0,1279,5500000.0,Mediocampista,2.5051,-0.3079,1.92,549
+Hernán Galíndez,Huracán,GK,39.0,0,0,1350,300000.0,Portero,3.3418,-0.9889,0.6667,400
+Facundo Gallardo,Estudiantes–RC,MF,20.0,0,0,157,,Mediocampista,1.9222,1.3772,0.3125,619
+Matías Gallardo,Instituto,MF,22.0,1,0,122,75000.0,Mediocampista,9.388,6.1022,3.5723,4
+Rodrigo Gallo,Dep. Riestra,DF,25.0,0,0,412,250000.0,Defensor,3.4408,-0.1573,1.3202,371
+Giuliano Galoppo,River Plate,MF,27.0,1,0,335,3500000.0,Mediocampista,2.7735,2.3557,0.3945,504
+Ignacio Galván,Atlé Tucumán,"DF,MF",23.0,0,0,884,275000.0,Defensor,3.9916,-0.1292,1.6375,271
+Jonathan Galván,Instituto,DF,33.0,0,1,926,,Defensor,4.3979,-0.2117,1.9016,205
+Tomás Galván,River Plate,MF,26.0,2,1,1139,4000000.0,Mediocampista,3.6293,1.6731,1.5746,334
+Lucas Gamba,Barracas Central,MF,38.0,1,0,114,50000.0,Mediocampista,5.6302,6.498,0.1041,62
+Martín Garay,Tigre,DF,27.0,0,1,452,800000.0,Defensor,3.9568,1.3118,1.1988,275
+Agustín García Basso,Racing Club,DF,34.0,0,0,512,300000.0,Defensor,3.9583,-0.4588,1.7135,274
+Franco García,Newell's,"MF,FW",29.0,1,0,224,350000.0,Mediocampista,4.2176,3.5716,0.8262,231
+Joaquín García,Vélez Sarsfield,DF,24.0,2,0,987,3000000.0,Defensor,5.3594,1.956,1.8406,89
+Manuel García,Sarmiento–J,"MF,DF",27.0,0,0,830,700000.0,Defensor,3.7516,-0.8385,1.7015,309
+Martín García,Aldosivi,"MF,FW",,0,0,397,,Mediocampista,2.6927,0.8018,1.3492,517
+Matías García,Dep. Riestra,MF,30.0,0,0,525,300000.0,Mediocampista,2.7958,-0.4653,2.2717,499
+Martín Garnerone,Estudiantes–RC,"MF,FW",27.0,1,0,967,,Mediocampista,2.4197,1.0577,0.9476,561
+Juan Gauto,Platense,MF,22.0,0,1,998,,Mediocampista,2.3759,1.0448,0.9187,568
+Gonzalo Gelini,Boca Juniors,FW,19.0,0,1,186,250000.0,Delantero,1.4659,1.4623,0.3447,647
+Laurtaro Giaccone,Arg Juniors,"MF,FW",25.0,0,0,358,,Mediocampista,2.8587,0.6125,1.6155,487
+Renzo Giampaoli,Gimnasia–LP,DF,26.0,0,0,1145,2000000.0,Defensor,4.4158,-0.7759,2.0759,202
+Leonardo Gil,Huracán,MF,35.0,0,1,1195,375000.0,Mediocampista,2.4864,0.626,1.2888,552
+Orlando Gill,CA San Lorenzo,GK,26.0,0,0,1260,6000000.0,Portero,4.8121,-0.9642,1.3288,154
+Enzo Giménez,Rosario Central,"MF,DF",28.0,1,1,1245,2500000.0,Defensor,4.6099,0.8996,1.7043,177
+Luciano Giménez,Huracán,FW,26.0,0,0,109,300000.0,Delantero,0.5913,0.9303,-0.1389,690
+Milton Giménez,Boca Juniors,FW,29.0,3,0,194,2500000.0,Delantero,9.9293,9.3341,0.6197,3
+Federico Gino,Aldosivi,MF,33.0,2,0,1026,,Mediocampista,2.3141,0.7461,1.0627,575
+Dilan Godoy,Vélez Sarsfield,"MF,FW",20.0,0,3,479,700000.0,Mediocampista,3.996,2.9413,1.0522,270
+Erik Godoy,Arg Juniors,DF,32.0,1,0,558,300000.0,Defensor,4.3843,0.7238,1.622,207
+Lautaro Godoy,Atlé Tucumán,"MF,FW",23.0,0,0,444,300000.0,Mediocampista,4.9932,1.3127,2.9762,132
+Leonardo Godoy,Independiente,DF,31.0,0,0,616,1200000.0,Defensor,2.3908,0.0125,0.6505,563
+Jonatan Goitía,Dep. Riestra,MF,31.0,0,0,785,,Mediocampista,3.2341,-0.1203,2.4186,422
+Elías Gómez,Vélez Sarsfield,DF,32.0,0,1,1350,1200000.0,Defensor,4.3882,-0.0162,1.8391,206
+Emmanuel Gómez,Ind. Rivadavia,GK,24.0,0,0,90,,Portero,4.1009,-0.8331,0.9949,254
+Iván Gómez,Platense,MF,29.0,0,0,459,1000000.0,Mediocampista,2.5144,-0.5038,2.0569,547
+Lautaro Gómez,Banfield,MF,22.0,3,0,692,400000.0,Mediocampista,5.0218,3.1269,1.8055,130
+Lucas Gómez,Arg Juniors,MF,22.0,0,0,226,150000.0,Mediocampista,1.3859,-0.4675,1.0699,654
+Luciano Gómez,Ind. Rivadavia,DF,30.0,1,2,516,700000.0,Defensor,4.9011,2.8167,1.3201,142
+Imanol González Benac,Gimnasia–M,DF,28.0,0,0,577,,Defensor,3.9436,-0.7811,1.7983,278
+Facundo González,River Plate,DF,20.0,0,0,108,,Defensor,7.6207,-0.7047,3.949,15
+Francisco González,Belgrano,"MF,FW",29.0,2,0,442,,Mediocampista,5.4645,2.9396,2.3067,76
+Lucas González,C. Córdoba–SdE,MF,26.0,0,0,888,1300000.0,Mediocampista,1.3946,-0.3221,0.9815,653
+Lucas González,Estudiantes–RC,FW,28.0,0,0,103,1300000.0,Delantero,0.7395,0.849,0.2201,685
+Luciano González,Defensa,FW,20.0,0,0,130,50000.0,Delantero,0.3854,0.3513,0.481,696
+Leandro González Pirez,Estudiantes–LP,DF,34.0,1,0,1106,350000.0,Defensor,4.4969,0.2258,1.8331,192
+Rodrigo González,Aldosivi,"DF,MF",26.0,0,0,1141,,Defensor,3.4622,-0.1444,1.3291,364
+Tomás González,Estudiantes–RC,MF,27.0,0,0,1134,150000.0,Mediocampista,1.9929,-0.2294,1.4311,606
+Jano Gordon,Vélez Sarsfield,DF,22.0,1,0,258,1000000.0,Defensor,8.7544,2.8403,3.5901,6
+Iván Guaraz,Barracas Central,MF,21.0,0,0,455,250000.0,Mediocampista,1.9355,-0.6493,1.6587,615
+Facundo Guch,Newell's,MF,19.0,1,1,929,1700000.0,Mediocampista,3.3261,1.6367,1.3397,401
+Nicolás Guerra,Instituto,"FW,MF",27.0,1,0,461,400000.0,Mediocampista,1.5493,1.459,-0.0597,643
+Tomás Guidara,Lanús,DF,30.0,0,1,1105,1200000.0,Defensor,3.8069,-0.3256,1.5854,300
+Adrián Guillermo Sánchez,Belgrano,MF,27.0,0,1,1294,,Mediocampista,2.9314,-0.4389,2.3701,473
+Facundo Gulli,CA San Lorenzo,"MF,FW",20.0,0,2,831,2500000.0,Mediocampista,2.4355,1.2781,0.8159,558
+Rodrigo Guth,Talleres–C,DF,25.0,0,0,103,1200000.0,Defensor,2.6756,-1.0,1.1126,522
+Juan Gutierrez,Defensa,"MF,FW",24.0,3,3,1307,2000000.0,Mediocampista,3.1888,2.3883,0.7275,428
+Lautaro Gutierrez,Belgrano,FW,20.0,2,0,392,250000.0,Delantero,3.3708,3.3352,0.243,391
+Maximiliano Gutiérrez,Independiente,"MF,FW",22.0,2,1,361,3000000.0,Mediocampista,5.213,4.7422,0.9046,103
+Natanael Guzmán,Aldosivi,"FW,MF",26.0,0,0,428,,Mediocampista,2.9838,0.7851,1.6086,456
+Ezequiel Ham,Atlé Tucumán,MF,32.0,0,1,744,600000.0,Mediocampista,2.3835,0.23,1.4619,564
+Agustin Hausch,Defensa,"MF,FW",23.0,1,0,658,400000.0,Mediocampista,3.4023,1.8386,1.2718,382
+Diego Herazo,CA San Lorenzo,FW,30.0,1,1,91,400000.0,Delantero,9.9474,9.8764,-0.2292,2
+Leonardo Heredia,Platense,FW,30.0,0,0,541,1200000.0,Delantero,0.4959,0.4559,0.4815,694
+Ramiro Hernandes,Belgrano,MF,21.0,1,0,553,300000.0,Mediocampista,2.9729,1.1735,1.3435,459
+Gastón Hernández,CA San Lorenzo,DF,28.0,0,0,798,3500000.0,Defensor,5.9789,-0.7502,2.992,42
+Ander Herrera,Boca Juniors,MF,36.0,0,0,466,400000.0,Mediocampista,2.3087,-0.2055,1.6849,577
+Ezequiel Herrera,CA San Lorenzo,DF,23.0,1,0,1337,2500000.0,Defensor,4.4019,0.1402,1.8018,204
+Guido Herrera,Talleres–C,GK,34.0,0,0,1440,1500000.0,Portero,4.1786,-0.9374,1.0399,238
+Jonathan Herrera,Dep. Riestra,FW,34.0,0,0,979,300000.0,Delantero,0.3222,0.4552,0.2159,697
+Rodrigo Herrera,Newell's,MF,25.0,0,0,1061,1500000.0,Mediocampista,2.1197,-0.5288,1.7366,595
+Michael Hoyos,Newell's,FW,34.0,1,0,432,200000.0,Delantero,1.2367,1.269,0.3052,662
+Marco Iacobellis,C. Córdoba–SdE,"MF,FW",26.0,0,1,441,175000.0,Mediocampista,2.9566,1.6487,1.0165,468
+Fabricio Iacovich,Estudiantes–LP,GK,24.0,0,0,495,500000.0,Portero,5.3265,-1.0,1.5646,91
+César Ibáñez,Huracán,DF,27.0,0,1,1118,2500000.0,Defensor,5.2751,0.144,2.3166,97
+Franco Ibarra,Rosario Central,MF,25.0,0,0,1190,6000000.0,Mediocampista,4.5492,-0.0924,3.5227,184
+Juan Ignacio Méndez,Instituto,MF,29.0,0,1,571,400000.0,Mediocampista,2.1057,-0.1946,1.5045,596
+Juan Ignacio Ramírez,Newell's,FW,29.0,4,0,464,,Delantero,5.6994,5.4893,0.3377,57
+Juan Infante,Atlé Tucumán,DF,30.0,0,0,90,400000.0,Defensor,3.022,-0.8001,1.2593,451
+Celías Ingenthron,Platense,DF,17.0,0,0,258,125000.0,Defensor,3.5585,-0.2212,1.4083,348
+Luis Ingolotti,Atlé Tucumán,GK,26.0,0,0,1440,1000000.0,Portero,2.9145,-0.9896,0.4737,478
+Manuel Insaurralde,CA San Lorenzo,MF,27.0,1,0,483,1000000.0,Mediocampista,3.999,1.396,2.0727,267
+Nelson Insfrán,Gimnasia–LP,GK,31.0,0,0,1197,2000000.0,Portero,3.619,-1.0,0.7931,337
+Rodrigo Insúa,Barracas Central,"MF,DF",28.0,3,1,1440,2000000.0,Defensor,4.0924,1.4808,1.2298,255
+Carlos Izquierdoz,Lanús,DF,37.0,2,0,1170,375000.0,Defensor,4.2148,0.8193,1.4941,232
+Facundo Jainikoski,Arg Juniors,"FW,MF",18.0,0,2,503,1200000.0,Mediocampista,3.939,2.7349,1.1395,279
+Lucas Janson,Boca Juniors,"FW,MF",31.0,0,0,182,200000.0,Mediocampista,0.6436,0.5693,-0.2466,688
+Kevin Jappert,Barracas Central,"DF,MF",22.0,1,0,537,2300000.0,Defensor,7.6768,1.0008,3.4872,14
+Franco Jara,Instituto,FW,37.0,1,0,710,150000.0,Delantero,1.136,1.0895,0.4405,668
+Fernando Juárez,C. Córdoba–SdE,MF,27.0,0,0,315,600000.0,Mediocampista,2.3779,-0.5266,1.9555,567
+Julián Kadijevic,Gimnasia–LP,GK,22.0,0,0,153,50000.0,Portero,2.5066,-1.0,0.2904,548
+Ryoga Kida,Arg Juniors,FW,20.0,1,0,94,100000.0,Delantero,7.2016,7.4348,-0.5,18
+Agustín Ladstatter,CA San Lorenzo,MF,21.0,0,0,412,400000.0,Mediocampista,1.4139,0.4851,0.4663,650
+Agustín Lagos,Platense,DF,24.0,0,0,176,500000.0,Defensor,4.2443,-0.524,1.9014,228
+Nicolás Laméndola,Atlé Tucumán,"MF,FW",27.0,1,0,1113,800000.0,Mediocampista,3.2758,1.2768,1.5339,412
+Manuel Lanzini,Vélez Sarsfield,MF,33.0,3,0,1195,900000.0,Mediocampista,3.3621,2.274,0.9507,393
+Alan Laprida,C. Córdoba–SdE,MF,21.0,0,0,370,,Mediocampista,1.1459,-0.141,0.65,665
+Joaquín Laso,Tigre,DF,35.0,0,0,1227,200000.0,Defensor,4.8428,-0.7123,2.3097,149
+Agustín Lastra,Estudiantes–RC,GK,25.0,0,0,990,,Portero,3.2724,-0.8786,0.6249,414
+Jeremías Lázaro,Instituto,MF,21.0,1,2,295,200000.0,Mediocampista,5.6685,4.2873,1.5931,59
+Jeremías Ledesma,Rosario Central,GK,33.0,0,0,1080,,Portero,4.0158,-0.9861,0.971,263
+Gonzalo Lencina,Platense,FW,28.0,0,0,456,600000.0,Delantero,0.7015,0.4486,0.8093,686
+Facundo Lencioni,Gimnasia–M,MF,25.0,2,5,1341,,Mediocampista,4.178,2.8946,1.2383,240
+Alan Lescano,Arg Juniors,MF,24.0,2,0,1292,7500000.0,Mediocampista,3.0903,0.9619,1.583,446
+Leandro Lescano,Huracán,DF,23.0,0,0,179,175000.0,Defensor,5.785,0.3384,2.5615,51
+Bruno Leyes,Tigre,MF,24.0,0,0,1136,2300000.0,Mediocampista,3.1207,-0.5988,2.637,442
+Franco Leys,Aldosivi,MF,32.0,0,0,504,,Mediocampista,2.2902,-0.4384,1.8226,579
+Nicolás Linares,Gimnasia–M,MF,30.0,0,0,652,,Mediocampista,2.0088,-0.5647,1.6655,602
+Gastón Lodico,Instituto,MF,28.0,0,1,1094,3800000.0,Mediocampista,2.8959,1.0437,1.3632,480
+Kevin Lomónaco,Independiente,DF,24.0,0,1,1300,8000000.0,Defensor,4.11,-0.4633,1.8044,252
+Santiago Longo,Belgrano,MF,28.0,0,0,407,2500000.0,Mediocampista,3.3758,-0.6982,2.9203,389
+Fabricio López,CA San Lorenzo,DF,23.0,0,0,263,400000.0,Defensor,4.8761,-0.4735,2.2601,146
+Julián López,Defensa,MF,26.0,0,0,250,800000.0,Mediocampista,2.3833,-0.8852,2.1963,565
+Lisandro López,Belgrano,DF,36.0,0,0,1018,300000.0,Defensor,4.5781,-0.4868,2.0878,181
+Hernán López Muñoz,Arg Juniors,"MF,FW",25.0,2,2,734,5000000.0,Mediocampista,4.7672,4.0687,0.9678,159
+Santiago López,Banfield,"DF,MF",28.0,2,4,1431,2000000.0,Defensor,5.7305,1.9232,2.0694,54
+Santiago López,Tigre,"MF,FW",20.0,0,2,900,2000000.0,Mediocampista,3.4631,1.8344,1.3264,361
+Franco Lorenzón,CA San Lorenzo,DF,25.0,0,0,90,225000.0,Defensor,2.179,-1.0,0.8192,588
+Nahuel Losada,Lanús,GK,33.0,0,0,1260,3000000.0,Portero,3.8476,-0.9762,0.8941,292
+Augusto Lotti,Platense,MF,30.0,2,0,187,500000.0,Mediocampista,7.8432,6.7267,1.8424,13
+Leandro Lozano,Arg Juniors,"DF,MF",27.0,0,1,942,4000000.0,Defensor,6.1679,0.6423,2.6996,37
+Raúl Lozano,Estudiantes–RC,DF,28.0,0,1,435,,Defensor,4.9629,0.6366,1.9892,135
+Esteban Lucero,Defensa,"MF,DF",20.0,0,0,462,,Defensor,4.2588,-0.3664,1.8642,225
+Martín Luciano,Newell's,"DF,MF",22.0,0,0,330,100000.0,Defensor,3.8227,0.0939,1.473,298
+Juan Ludueña,Unión,DF,23.0,0,1,1234,,Defensor,5.111,-0.4412,2.3895,119
+Juan Luis Alfaro,Banfield,"MF,DF",26.0,0,0,171,200000.0,Defensor,5.9382,-0.6746,2.946,44
+José Luis Palomino,Talleres–C,DF,36.0,0,0,525,300000.0,Defensor,3.7304,-0.6568,1.6363,312
+Alex Luna,Instituto,"MF,FW",22.0,5,0,1215,4000000.0,Mediocampista,4.4029,3.6487,0.9335,203
+Imanol Machuca,Vélez Sarsfield,MF,26.0,0,0,154,,Mediocampista,1.1299,-0.0424,0.5713,670
+Alejandro Maciel,C. Córdoba–SdE,DF,29.0,1,1,1260,350000.0,Defensor,4.8015,0.2496,2.0061,156
+Gonzalo Maffini,Estudiantes–RC,DF,33.0,0,1,1079,,Defensor,3.6824,-0.3515,1.5193,321
+Lisandro Magallán,Vélez Sarsfield,DF,32.0,0,1,1240,1000000.0,Defensor,3.2229,-0.6837,1.3442,424
+Pablo Magnín,Sarmiento–J,FW,36.0,1,0,225,100000.0,Delantero,3.1555,2.8535,0.6912,434
+Alexandro Maidana,Talleres–C,"DF,MF",20.0,2,0,646,2500000.0,Defensor,6.7835,2.1083,2.6379,23
+Guido Mainero,Platense,MF,31.0,0,0,1066,2000000.0,Mediocampista,1.9349,0.576,0.8511,616
+Víctor Malcorra,Independiente,MF,38.0,1,3,1131,,Mediocampista,2.9612,2.5361,0.436,465
+Alexis Maldonado,Belgrano,DF,28.0,0,0,1003,1000000.0,Defensor,3.8916,-0.7965,1.7721,287
+Facundo Mallo,Rosario Central,DF,31.0,0,0,542,1000000.0,Defensor,4.6027,-0.9056,2.2239,179
+Emanuel Mammana,Vélez Sarsfield,DF,30.0,0,0,1260,2500000.0,Defensor,3.3571,-0.8768,1.4795,397
+Eros Mancuso,Estudiantes–LP,DF,27.0,0,0,729,3000000.0,Defensor,4.0613,-0.1683,1.6901,261
+Facundo Mansilla,C. Córdoba–SdE,DF,27.0,0,0,1113,350000.0,Defensor,5.6069,-0.7552,2.7737,64
+Matías Mansilla,Unión,GK,30.0,0,0,1440,2500000.0,Portero,3.5204,-0.9687,0.7455,352
+Juan Manuel Cabrera,Sarmiento–J,DF,26.0,0,0,364,150000.0,Defensor,3.2802,-0.5961,1.3526,410
+Juan Manuel Elordi,Ind. Rivadavia,"DF,MF",31.0,1,2,1089,,Defensor,4.9702,1.2662,1.8108,134
+Juan Manuel Insaurralde,Sarmiento–J,DF,41.0,0,0,1130,75000.0,Defensor,3.3462,-0.7625,1.4399,399
+Junior Marabel,Sarmiento–J,FW,28.0,6,3,1165,2200000.0,Delantero,4.1958,3.9498,0.5168,234
+Agustín Marchesín,Boca Juniors,GK,38.0,0,0,1071,500000.0,Portero,3.7267,-0.9579,0.8377,313
+Leonardo Marchi,C. Córdoba–SdE,DF,29.0,0,0,179,25000.0,Defensor,6.4299,0.3137,2.9498,29
+Sasha Marcich,Lanús,DF,28.0,1,1,1233,3000000.0,Defensor,4.6122,0.9284,1.6973,175
+Iván Marcone,Independiente,MF,36.0,1,0,1126,400000.0,Mediocampista,2.6055,0.2709,1.6244,534
+Gonzalo Maroni,Barracas Central,"MF,FW",27.0,1,0,419,2000000.0,Mediocampista,3.1508,1.8231,1.0674,436
+Rodrigo Márquez,Aldosivi,FW,24.0,0,0,118,,Delantero,1.5422,1.362,0.6241,645
+Adrián Martínez,Racing Club,FW,33.0,4,0,1152,2800000.0,Delantero,1.7658,1.9112,0.0796,628
+Alejandro Martínez,Huracán,"MF,FW",29.0,0,0,385,600000.0,Mediocampista,1.8636,-0.0118,1.1775,624
+Damián Martínez,Barracas Central,"MF,DF",36.0,1,0,514,100000.0,Defensor,5.3818,1.2366,2.0626,86
+Enzo Martínez,Gimnasia–LP,DF,28.0,2,0,1350,1300000.0,Defensor,5.1233,0.523,2.1169,115
+Fernando Martínez,C. Córdoba–SdE,"MF,DF",25.0,1,0,588,225000.0,Defensor,5.6565,1.1222,2.2582,60
+Mauricio Martínez,Sarmiento–J,MF,33.0,0,0,745,375000.0,Mediocampista,3.0865,-0.0593,2.2525,447
+Lucas Martínez Quarta,River Plate,DF,30.0,1,0,1340,4500000.0,Defensor,4.7006,0.1222,1.9835,167
+Ronaldo Martínez,Talleres–C,FW,30.0,3,1,1206,4000000.0,Delantero,2.1605,2.0971,0.3853,591
+Gastón Martirena,Racing Club,"MF,DF",26.0,0,0,292,4000000.0,Defensor,4.19,0.505,1.5707,237
+Thomás de Martis,Lanús,FW,17.0,0,0,90,125000.0,Delantero,-0.7876,-0.3241,-0.2292,711
+Agustín Massaccesi,Instituto,DF,23.0,0,0,253,200000.0,Defensor,5.5692,-0.4671,2.6678,70
+Guillermo Matías Fernández,Rosario Central,MF,34.0,0,1,354,,Mediocampista,3.1117,0.5351,1.8825,444
+Jerónimo Mattar,Newell's,MF,17.0,0,1,654,,Mediocampista,3.4931,0.8669,1.9894,356
+Julián Mavilla,Belgrano,MF,26.0,1,0,268,250000.0,Mediocampista,5.3903,3.629,1.7893,85
+Augusto Max,Gimnasia–LP,MF,33.0,0,1,1117,100000.0,Mediocampista,2.862,-0.4479,2.3168,486
+Sergio Maximiliano Ojeda,Estudiantes–RC,DF,34.0,0,0,720,,Defensor,3.6486,-0.6046,1.5728,329
+Walter Mazzantti,Newell's,"MF,FW",29.0,1,1,616,2200000.0,Mediocampista,3.5044,1.7446,1.4209,354
+Walter Mazzantti,Independiente,MF,29.0,0,0,140,2200000.0,Mediocampista,1.1911,-0.0508,0.6292,664
+Agustín Medina,Lanús,MF,,0,0,789,4500000.0,Mediocampista,2.4723,-0.5874,2.0761,554
+Cristian Medina,Estudiantes–LP,MF,24.0,0,1,443,,Mediocampista,2.918,0.9082,1.4714,477
+Sebastián Medina,Tigre,MF,26.0,0,0,317,350000.0,Mediocampista,2.6763,0.4478,1.5683,520
+Armando Méndez,Newell's,DF,30.0,0,0,1173,900000.0,Defensor,6.4952,-0.1014,3.1088,28
+Mauro Méndez,Banfield,FW,27.0,6,3,1372,2500000.0,Delantero,3.4352,3.479,0.1096,375
+Mateo Mendía,Platense,DF,22.0,0,0,360,300000.0,Defensor,2.8944,-0.3627,1.0569,481
+Miguel Merentiel,Boca Juniors,FW,30.0,5,2,854,4500000.0,Delantero,4.7534,4.5444,0.4121,161
+Nicolás Meriano,Banfield,DF,25.0,0,0,799,400000.0,Defensor,6.025,-0.7252,3.012,41
+Bautista Merlini,Platense,MF,30.0,1,0,464,400000.0,Mediocampista,3.2845,2.0071,1.0603,408
+Jeremias Merlo,Gimnasia–LP,MF,,0,0,127,700000.0,Mediocampista,2.2561,0.4895,1.1822,583
+Eric Meza,Estudiantes–LP,DF,27.0,0,0,879,2500000.0,Defensor,4.7039,0.3946,1.9064,166
+Juan Meza,River Plate,MF,18.0,0,2,138,,Mediocampista,7.4476,5.5592,2.2738,16
+Sebastián Meza,Huracán,GK,26.0,0,0,90,450000.0,Portero,3.4303,-1.0,0.7078,378
+Matko Miljevic,Racing Club,MF,25.0,0,0,598,4000000.0,Mediocampista,2.6744,1.6827,0.7532,524
+Lautaro Millán,Independiente,MF,20.0,1,1,738,2500000.0,Mediocampista,2.7865,1.4898,0.976,500
+Dardo Miloc,Barracas Central,MF,35.0,0,0,985,75000.0,Mediocampista,2.6746,-0.7712,2.3699,523
+Facundo Miño,Dep. Riestra,DF,26.0,0,0,950,800000.0,Defensor,4.9329,-0.7179,2.3646,138
+Marcelo Miño,Barracas Central,GK,28.0,0,0,979,350000.0,Portero,5.5846,-0.9234,1.6739,67
+Ignacio Miramon,Gimnasia–LP,MF,23.0,0,0,767,1500000.0,Mediocampista,2.963,-0.1791,2.226,464
+Juan Miritello,Defensa,FW,27.0,2,0,389,,Delantero,3.0296,3.012,0.2414,449
+Agustín Módica,Gimnasia–M,FW,23.0,4,0,873,,Delantero,3.6718,3.4899,0.4552,324
+Tomás Molina,Arg Juniors,FW,31.0,3,0,834,2500000.0,Delantero,2.9862,2.7854,0.5411,455
+Diego Mondino,Gimnasia–M,DF,31.0,0,0,873,,Defensor,5.0237,-0.89,2.4682,129
+Pablo Monje,Dep. Riestra,MF,29.0,0,0,1040,600000.0,Mediocampista,2.1711,-0.1246,1.5142,589
+Lautaro Montenegro,CA San Lorenzo,DF,21.0,0,0,450,1000000.0,Defensor,4.6461,-0.6654,2.1798,171
+Gonzalo Montiel,River Plate,DF,29.0,4,1,1259,4500000.0,Defensor,4.9236,1.9464,1.5859,140
+Santiago Montiel,Independiente,"MF,FW",25.0,1,1,629,3800000.0,Mediocampista,4.1283,2.9078,1.1872,250
+Florián Monzón,Vélez Sarsfield,FW,25.0,6,0,1042,2500000.0,Delantero,3.9971,3.8246,0.414,268
+Iván Morales Bravo,Arg Juniors,FW,26.0,2,1,744,,Delantero,2.2078,2.2152,0.2672,584
+Gonzalo Morales,Barracas Central,FW,23.0,1,0,561,900000.0,Delantero,1.1336,1.0653,0.4761,669
+Leonardo Morales,Belgrano,DF,35.0,0,0,1148,600000.0,Defensor,3.7896,-0.7642,1.7024,304
+Matías Morello,Aldosivi,"MF,DF",25.0,0,0,236,,Defensor,2.887,-0.8169,1.1844,484
+Aníbal Moreno,River Plate,MF,27.0,0,2,1389,8000000.0,Mediocampista,3.3831,-0.1274,2.5504,387
+Marcelino Moreno,Lanús,MF,31.0,3,1,530,4500000.0,Mediocampista,5.5912,6.0271,0.3811,66
+Neyder Moreno,Banfield,MF,29.0,1,0,205,450000.0,Mediocampista,5.1456,4.1043,1.2673,108
+Valentín Moreno,Tigre,DF,23.0,0,0,726,500000.0,Defensor,4.2911,-0.277,1.8574,219
+Nicolás Morgantini,Lanús,DF,31.0,0,0,225,200000.0,Defensor,3.1186,-0.5574,1.2459,443
+Leonel Mosevich,Instituto,DF,29.0,0,0,1440,750000.0,Defensor,3.4529,-0.7469,1.4985,367
+Joaquín Mosqueira,Tigre,MF,21.0,0,0,95,1200000.0,Mediocampista,2.0413,-0.8483,1.8801,599
+Jherson Mosquera,Newell's,DF,26.0,0,0,90,,Defensor,2.8013,-0.6662,1.09,498
+Santiago Moya,Aldosivi,DF,23.0,1,0,630,,Defensor,4.3582,0.8191,1.5789,213
+Franco Moyano,Instituto,MF,28.0,0,0,129,700000.0,Mediocampista,0.5116,-1.0,0.6744,693
+Santiago Moyano,C. Córdoba–SdE,DF,28.0,0,0,1038,600000.0,Defensor,3.9519,-0.3463,1.677,276
+Ezequiel Muñoz,Gimnasia–M,DF,35.0,2,0,1114,,Defensor,4.2979,0.6977,1.5785,218
+Fernando Muslera,Estudiantes–LP,GK,40.0,0,0,945,700000.0,Portero,3.7013,-0.9523,0.8257,318
+Facundo Kalinger di Napoli,Huracán,MF,21.0,0,0,153,,Mediocampista,1.9983,0.0861,1.2278,603
+Juan Nardoni,Racing Club,MF,23.0,0,0,126,,Mediocampista,0.2605,-0.738,0.2875,698
+Tomás Nasif,Platense,FW,22.0,2,1,526,1200000.0,Delantero,3.3162,3.3596,0.1197,402
+Federico Navarro,Rosario Central,MF,26.0,0,0,354,2000000.0,Mediocampista,2.6703,-0.9572,2.4887,525
+Ezequiel Naya,C. Córdoba–SdE,FW,24.0,2,0,727,400000.0,Delantero,1.9328,2.0604,0.095,617
+Hugo Nervo,Huracán,DF,35.0,1,0,146,225000.0,Defensor,6.3674,4.681,1.6454,30
+Gabriel Neves,Estudiantes–LP,MF,28.0,0,0,438,1300000.0,Mediocampista,4.6344,-0.3574,3.77,172
+Franco Nicola,Atlé Tucumán,"MF,FW",24.0,2,1,853,500000.0,Mediocampista,4.0635,2.7312,1.2482,260
+Gonzalo Nicolás Martínez,Tigre,MF,33.0,2,0,366,,Mediocampista,5.3391,5.8305,0.2954,90
+Aaron Nicolás Molinas,Defensa,MF,25.0,3,4,1348,,Mediocampista,4.1786,2.4729,1.5166,238
+Fabián Noguera,Newell's,DF,33.0,0,0,110,250000.0,Defensor,3.1327,-1.0,1.3827,439
+Santiago Núñez,Estudiantes–LP,DF,26.0,1,1,604,2000000.0,Defensor,4.82,1.1136,1.7663,153
+Walter Núñez,Newell's,"MF,FW",23.0,1,1,763,900000.0,Mediocampista,3.5693,1.7181,1.4937,345
+Tomás O'Connor,Gimnasia–M,MF,22.0,0,0,128,,Mediocampista,5.1259,-0.4127,4.2259,114
+Gabriel Obredor,Dep. Riestra,FW,29.0,0,0,543,175000.0,Delantero,0.6972,0.5256,0.6781,687
+Álvaro Ocampo,Belgrano,DF,21.0,0,0,296,75000.0,Defensor,2.5228,-0.9532,1.0087,545
+Pedro Ojeda,Huracán,MF,28.0,0,2,1023,,Mediocampista,2.5853,0.0653,1.7426,539
+Tomás Olmos,Estudiantes–RC,DF,21.0,0,0,164,,Defensor,2.488,-0.8283,0.9519,551
+Nicolás Omar Goitea,Newell's,DF,29.0,0,0,855,,Defensor,2.8371,-0.8701,1.1704,490
+Nicolás Oróz,Arg Juniors,MF,32.0,2,2,1028,1000000.0,Mediocampista,3.9159,1.7847,1.7457,282
+Martín Ortega,Newell's,DF,26.0,0,0,131,1000000.0,Defensor,1.7037,-0.7637,0.4697,634
+Diego Ortegoza,Talleres–C,MF,29.0,0,2,831,,Mediocampista,2.6761,0.7535,1.3668,521
+Kevin Ortíz,Atlé Tucumán,MF,25.0,0,1,824,1300000.0,Mediocampista,3.745,-0.0173,2.7869,311
+Alejo Osella,Ind. Rivadavia,"DF,MF",25.0,4,0,952,1200000.0,Defensor,5.4098,2.5418,1.7004,82
+Abiel Osorio,Defensa,FW,24.0,0,0,185,1500000.0,Delantero,1.0863,1.052,0.4248,673
+Tobías Ostchega,Estudiantes–RC,DF,27.0,0,0,799,,Defensor,3.5627,0.041,1.3347,346
+Ignacio Ovando,Rosario Central,DF,18.0,1,0,1170,6000000.0,Defensor,5.7245,0.1069,2.5929,55
+Alfio Oviedo,Tigre,FW,30.0,1,0,281,300000.0,Delantero,2.5907,2.68,0.104,538
+Kendry Páez,River Plate,"MF,FW",19.0,1,0,317,8000000.0,Mediocampista,3.5778,2.4951,0.9892,343
+Ignacio Pais,Banfield,MF,26.0,0,0,985,800000.0,Mediocampista,3.2071,-0.2358,2.4717,427
+Julián Palacios,Unión,MF,27.0,3,5,1165,2500000.0,Mediocampista,4.5367,3.7187,1.0016,185
+Tiago Palacios,Estudiantes–LP,"MF,FW",25.0,3,1,736,4500000.0,Mediocampista,4.3651,3.6101,0.9267,210
+Tomás Palacios,Estudiantes–LP,DF,23.0,0,0,927,6000000.0,Defensor,4.1556,-0.48,1.8362,246
+Agustín Palavecino,Aldosivi,"MF,FW",23.0,0,0,922,,Mediocampista,2.2574,0.3821,1.2541,582
+Nicolás Palavecino,Unión,FW,23.0,0,1,202,150000.0,Delantero,3.6709,3.4635,0.4966,325
+Máximo Palazzo,Huracán,DF,21.0,0,0,417,125000.0,Defensor,2.6869,-0.9301,1.099,518
+Manuel Panaro,Gimnasia–LP,"MF,FW",23.0,1,1,785,2000000.0,Mediocampista,2.6679,1.553,0.8331,527
+Franco Pardo,Racing Club,DF,29.0,0,0,742,2000000.0,Defensor,2.9588,-0.7082,1.1953,467
+Leandro Paredes,Boca Juniors,MF,31.0,2,3,977,5000000.0,Mediocampista,4.1388,2.6196,1.386,247
+Luciano Paredes,Gimnasia–M,"DF,MF",23.0,1,0,948,,Defensor,5.1481,0.5751,2.1165,107
+Nicolás Pasquini,Sarmiento–J,"DF,MF",35.0,1,0,438,150000.0,Defensor,3.3608,1.7492,0.7196,395
+Lucas Passerini,Belgrano,FW,31.0,0,4,443,1500000.0,Delantero,3.273,3.1614,0.3738,413
+Cristian Paz,Dep. Riestra,DF,31.0,0,0,1332,500000.0,Defensor,4.2646,-0.8906,2.0198,223
+Nehuén Paz,Huracán,DF,33.0,0,0,293,175000.0,Defensor,2.7724,-0.0596,0.8969,505
+Matías Pellegrini,Vélez Sarsfield,"MF,FW",26.0,3,2,700,1700000.0,Mediocampista,5.3758,4.2467,1.3699,87
+Marco Pellegrino,Boca Juniors,DF,23.0,0,0,360,3500000.0,Defensor,3.6411,-0.9083,1.6565,331
+Felipe Peña,Lanús,MF,25.0,0,0,620,,Mediocampista,3.2404,-0.308,2.5477,420
+Taiel Peralta,Huracán,"MF,FW",17.0,2,0,458,,Mediocampista,4.3722,2.79,1.473,209
+Elías Pereyra,Defensa,"MF,DF",27.0,2,0,558,400000.0,Defensor,5.1426,2.6634,1.5072,109
+Fabio Pereyra,Huracán,DF,36.0,0,0,1440,150000.0,Defensor,3.4464,-0.8046,1.5114,369
+Joaquín Pereyra,Estudiantes–LP,DF,21.0,0,0,151,,Defensor,4.2399,-0.3369,1.8445,229
+César Pérez,Defensa,MF,23.0,0,0,131,3000000.0,Mediocampista,2.9266,-0.0247,2.0932,475
+Enzo Pérez,Arg Juniors,MF,40.0,0,0,111,100000.0,Mediocampista,5.1186,-0.1757,4.0636,116
+Fabricio Pérez,Estudiantes–LP,MF,20.0,3,0,838,2000000.0,Mediocampista,3.9038,2.8136,1.0576,285
+Gonzalo Pérez,Lanús,DF,25.0,0,0,329,1200000.0,Defensor,2.8849,-0.3043,1.0344,485
+Mateo Pérez,Independiente,MF,20.0,0,0,426,,Mediocampista,0.8889,-0.387,0.5927,680
+Tiziano Perrotta,Banfield,FW,19.0,4,1,823,2000000.0,Delantero,4.0406,3.7245,0.6427,262
+Ignacio Perruzzi,CA San Lorenzo,MF,21.0,0,0,789,2500000.0,Mediocampista,1.7287,-0.6586,1.4883,630
+Franco Petroli,Lanús,GK,28.0,0,0,180,1800000.0,Portero,5.0605,-1.0,1.4444,125
+Lautaro Petruchi,Gimnasia–M,GK,27.0,0,0,180,,Portero,4.0834,-0.9165,0.9949,256
+Germán Pezzella,River Plate,DF,34.0,0,0,135,500000.0,Defensor,2.8153,-0.7555,1.1242,496
+Juan Pignani,C. Córdoba–SdE,DF,24.0,0,0,602,,Defensor,4.8219,-0.8656,2.3419,152
+Gonzalo Piñeiro,Tigre,MF,25.0,0,0,319,225000.0,Mediocampista,1.3559,-0.4854,1.056,656
+Lisandro Piñero,Banfield,MF,18.0,0,0,465,400000.0,Mediocampista,1.9412,0.02,1.2226,614
+Lucas Piovi,Estudiantes–LP,MF,33.0,0,1,1140,,Mediocampista,2.5369,-0.2714,1.9231,544
+Bruno Pittón,Unión,DF,33.0,0,0,281,250000.0,Defensor,8.0808,-0.5825,4.1854,11
+Mauro Pittón,Unión,MF,31.0,0,0,1399,2300000.0,Mediocampista,2.267,-0.4222,1.7921,581
+Damián Pizarro,Racing Club,FW,21.0,0,1,115,2000000.0,Delantero,3.2458,3.1901,0.2856,418
+Vicente Pizarro,Rosario Central,MF,23.0,1,1,1281,4500000.0,Mediocampista,2.9254,0.5868,1.6894,476
+Diego Porcel,Arg Juniors,"MF,FW",21.0,0,0,513,800000.0,Mediocampista,1.7429,0.6507,0.638,629
+Tomás Porra,Barracas Central,MF,22.0,0,3,1250,1200000.0,Mediocampista,2.9796,0.5972,1.7287,457
+Ayrton Portillo,Defensa,MF,25.0,3,1,875,1000000.0,Mediocampista,4.5722,2.9317,1.5503,182
+Sebastián Prieto,Arg Juniors,DF,33.0,1,2,1136,275000.0,Defensor,4.6966,1.2478,1.6545,168
+Rafael Profini,Unión,MF,22.0,1,5,1322,2800000.0,Mediocampista,2.759,1.2181,1.1315,507
+Ignacio Pussetto,Independiente,MF,30.0,1,0,417,1300000.0,Mediocampista,3.1292,1.8156,1.0539,441
+Carlos Quintana,Rosario Central,DF,38.0,0,1,238,75000.0,Defensor,1.9729,0.4609,0.2734,611
+Juan Quintero,River Plate,MF,33.0,2,2,549,,Mediocampista,5.2787,5.5494,0.429,94
+Agustin Quiroga,C. Córdoba–SdE,DF,24.0,0,0,802,300000.0,Defensor,4.4923,-0.1616,1.9428,194
+Aaron Quirós,Vélez Sarsfield,DF,24.0,0,0,382,1800000.0,Defensor,2.8523,-0.6031,1.1018,488
+Luca Rafaelli,Instituto,MF,,1,1,247,400000.0,Mediocampista,4.8501,4.3734,0.8379,148
+Luca Raffin,Rosario Central,DF,20.0,0,0,207,150000.0,Defensor,4.568,-0.9274,2.2098,183
+Eugenio Raggio,Platense,DF,24.0,0,0,720,1200000.0,Defensor,3.8709,-0.8081,1.7632,289
+Yonatthan Rak,Barracas Central,DF,32.0,0,0,191,200000.0,Defensor,4.8266,-0.7459,2.3099,151
+Eric Ramírez,Huracán,MF,29.0,0,1,149,600000.0,Mediocampista,2.8877,2.5083,0.3915,483
+Pedro Ramírez,Dep. Riestra,"DF,MF",26.0,1,0,884,800000.0,Defensor,4.9919,0.7422,1.9757,133
+Tobías Ramírez,Arg Juniors,DF,19.0,0,0,90,3500000.0,Defensor,0.9898,0.1911,-0.2292,675
+Luciano Ramón Herrera,Newell's,"MF,FW",30.0,0,1,833,,Mediocampista,1.5809,1.0078,0.2645,639
+Juan Randazzo,Dep. Riestra,DF,31.0,0,0,932,300000.0,Defensor,3.0853,-0.8046,1.298,448
+Matías Reali,CA San Lorenzo,"MF,FW",28.0,0,1,422,1500000.0,Mediocampista,4.9285,2.3889,2.2119,139
+Matías Recalde,Gimnasia–M,DF,28.0,0,0,458,,Defensor,6.1169,0.2163,2.7931,39
+Luca Regiardo,Newell's,MF,19.0,0,0,964,1700000.0,Mediocampista,2.9598,-0.8009,2.6328,466
+Josue Reinatti,Newell's,GK,23.0,0,0,450,1200000.0,Portero,4.0799,-0.9332,0.9949,257
+Jhon Rentería,Sarmiento–J,"MF,FW",20.0,0,1,365,500000.0,Mediocampista,3.4938,2.3753,0.9965,355
+Kevin Retamar,Platense,MF,27.0,1,2,549,,Mediocampista,4.278,2.805,1.3827,221
+Rodrigo Rey,Independiente,GK,35.0,0,0,1440,1000000.0,Portero,3.2451,-0.9687,0.6211,419
+Federico Ricca,Belgrano,"DF,MF",31.0,0,0,663,800000.0,Defensor,3.5601,-0.506,1.4919,347
+Rick,Talleres–C,MF,26.0,2,1,875,2200000.0,Mediocampista,3.7205,2.6227,1.0269,314
+Alessandro Riep,Ind. Rivadavia,DF,22.0,0,0,90,350000.0,Defensor,3.8493,0.6548,1.3259,291
+César Rigamonti,Gimnasia–M,GK,39.0,0,0,1260,,Portero,3.7958,-0.9881,0.8718,302
+Emiliano Rigoni,Belgrano,MF,33.0,1,2,975,1000000.0,Mediocampista,2.8983,1.6818,0.9449,479
+Martín Río,Talleres–C,MF,25.0,1,0,159,1800000.0,Mediocampista,6.8449,4.0191,2.7738,21
+Gonzalo Ríos,Ind. Rivadavia,MF,27.0,1,2,813,2000000.0,Mediocampista,3.2146,2.0366,0.9812,426
+Lautaro Ríos,Banfield,MF,25.0,0,0,301,450000.0,Mediocampista,2.3505,0.1734,1.471,572
+Román Riquelme,Arg Juniors,DF,24.0,1,0,900,1700000.0,Defensor,3.9142,0.1983,1.4968,283
+Gabriel Risso Patrón,Newell's,DF,30.0,0,0,285,200000.0,Defensor,2.4523,-0.7025,0.8943,556
+Lautaro Rivero,River Plate,DF,22.0,1,0,1236,7000000.0,Defensor,4.6223,0.1146,1.9394,174
+Lucas Robertone,Vélez Sarsfield,MF,29.0,1,0,733,2000000.0,Mediocampista,4.1019,0.8485,2.5212,253
+Baltasar Rodríguez,Racing Club,MF,22.0,0,1,571,4000000.0,Mediocampista,3.68,1.2675,1.885,322
+Gregorio Rodríguez,CA San Lorenzo,"MF,FW",26.0,2,0,532,700000.0,Mediocampista,5.2504,2.9489,2.1179,99
+Lucas Rodríguez,Aldosivi,"DF,MF",32.0,0,1,721,,Defensor,4.5177,0.7303,1.699,188
+Maizon Rodríguez,Unión,DF,23.0,1,0,1370,2000000.0,Defensor,3.7913,-0.1356,1.521,303
+Santiago Rodriguez,Gimnasia–M,FW,28.0,1,1,590,,Delantero,1.7177,1.7788,0.2198,633
+Teo Rodríguez,CA San Lorenzo,"DF,MF",20.0,0,0,578,,Defensor,4.2829,-0.2508,1.8449,220
+Manuel Roffo,Instituto,GK,26.0,0,0,1440,3000000.0,Portero,3.4012,-0.9687,0.6917,384
+Gabriel Rojas,Racing Club,"DF,MF",28.0,1,3,1080,4000000.0,Defensor,4.76,2.3977,1.3583,160
+Marcos Rojo,Racing Club,DF,36.0,0,0,459,125000.0,Defensor,4.4278,-0.6885,2.0576,200
+Esteban Rolón,Aldosivi,MF,31.0,0,0,836,,Mediocampista,2.1838,-0.2433,1.6032,586
+Fernando Román,Aldosivi,DF,27.0,0,1,1030,,Defensor,5.561,0.0566,2.5109,71
+Jhohan Romaña,CA San Lorenzo,DF,27.0,0,0,1215,6000000.0,Defensor,4.7178,-0.7423,2.2446,164
+Ángel Romero,Boca Juniors,"MF,FW",33.0,0,0,348,600000.0,Mediocampista,2.1473,0.4182,1.1363,592
+Braian Romero,Vélez Sarsfield,FW,35.0,1,0,299,350000.0,Delantero,2.5928,2.6103,0.2198,535
+Francisco Romero,Estudiantes–RC,MF,27.0,0,0,720,,Mediocampista,2.7284,-0.2427,2.0676,512
+José Romero,Tigre,FW,23.0,7,2,793,,Delantero,7.0711,6.8038,0.3198,20
+Óscar Romero,Huracán,MF,33.0,0,0,536,700000.0,Mediocampista,3.0267,1.0027,1.5019,450
+Siro Rosane,Estudiantes–RC,MF,26.0,0,1,702,,Mediocampista,3.2625,0.5995,1.9687,415
+Agustín Ruberto,River Plate,FW,20.0,0,0,169,1700000.0,Delantero,0.055,0.3178,0.0274,705
+Matías Ruíz Díaz,Estudiantes–RC,DF,29.0,0,0,270,,Defensor,2.8429,-0.2705,0.9997,489
+Ramiro Ruiz,Atlé Tucumán,FW,26.0,0,0,144,,Delantero,-0.7454,-0.7102,0.4599,710
+Ignacio Russo,Tigre,FW,25.0,4,3,1355,4000000.0,Delantero,3.3797,3.1042,0.6302,388
+Jerónimo Russo,Newell's,DF,21.0,1,2,737,1000000.0,Defensor,6.3366,2.2333,2.3375,31
+Franco Saavedra,Gimnasia–M,DF,22.0,0,1,1024,,Defensor,4.2558,0.2314,1.689,227
+Juan Saborido,Platense,DF,28.0,0,0,1297,,Defensor,4.5234,-0.1777,1.9659,187
+Maximiliano Salas,River Plate,FW,28.0,1,0,392,4500000.0,Delantero,2.964,2.7018,0.6421,463
+Saúl Salcedo,Newell's,DF,28.0,0,0,1260,1000000.0,Defensor,3.6721,-0.6345,1.5954,323
+Santiago Salle,Sarmiento–J,MF,22.0,0,1,875,900000.0,Mediocampista,1.5455,0.5618,0.5281,644
+Oscar Salomón,Newell's,DF,27.0,2,0,511,1500000.0,Defensor,5.6837,2.6059,1.8436,58
+Eduardo Salvio,Lanús,MF,35.0,1,3,1058,750000.0,Mediocampista,3.4319,1.8368,1.2984,376
+Facundo Sánchez,Lanús,MF,20.0,0,0,192,50000.0,Mediocampista,1.2244,-0.2856,0.8122,663
+Ulises Sánchez,Gimnasia–M,MF,27.0,0,0,745,,Mediocampista,2.758,0.55,1.5707,508
+Agustín Sández,Rosario Central,"DF,MF",25.0,0,1,836,2500000.0,Defensor,4.4975,0.2026,1.8401,191
+Facundo Sanguinetti,Banfield,GK,25.0,0,0,1440,2500000.0,Portero,4.9024,-0.9687,1.37,141
+Nicolás Sansotre,Dep. Riestra,"DF,MF",32.0,0,0,1145,300000.0,Defensor,3.3711,-0.6258,1.415,390
+Thiago Santamaría,Sarmiento–J,DF,23.0,0,1,840,800000.0,Defensor,5.2565,0.1186,2.313,98
+Michael Santos,C. Córdoba–SdE,FW,33.0,4,2,1085,350000.0,Delantero,2.8278,2.6659,0.4909,492
+Jabes Saralegui,Tigre,MF,23.0,0,1,506,3000000.0,Mediocampista,1.9251,0.6207,0.8133,618
+Fabrizio Sartori,Ind. Rivadavia,"FW,MF",23.0,6,0,1117,3500000.0,Mediocampista,3.2367,3.3089,0.162,421
+Rodrigo Sayavedra,Dep. Riestra,DF,30.0,0,0,147,75000.0,Defensor,3.6974,0.8508,1.1793,320
+Francisco Scarpeccio,Newell's,FW,20.0,1,0,208,150000.0,Delantero,3.5259,3.5398,0.1506,350
+Nicolas Schelotto,Gimnasia–LP,MF,19.0,3,3,1160,,Mediocampista,5.5035,3.6178,1.8933,74
+Augusto Schott,Talleres–C,DF,26.0,3,0,1317,1200000.0,Defensor,5.4117,1.4698,2.0126,81
+Alexis Segovia,Atlé Tucumán,MF,22.0,0,0,102,225000.0,Mediocampista,1.6292,0.2983,0.7731,638
+Mateo Seoane,Gimnasia–LP,MF,22.0,0,0,175,450000.0,Mediocampista,2.4346,-0.8243,2.2,559
+Bruno Sepúlveda,Banfield,FW,33.0,0,1,259,225000.0,Delantero,0.938,0.6345,0.872,678
+Matías Sepúlveda,Lanús,MF,27.0,0,0,442,1200000.0,Mediocampista,2.6059,0.9219,1.1959,533
+Leonardo Sequeira,Huracán,"FW,MF",31.0,0,0,115,350000.0,Mediocampista,2.7578,0.2079,1.7959,509
+Tiago Serrago,Tigre,MF,22.0,1,0,600,1700000.0,Mediocampista,2.4893,1.2539,0.8777,550
+Agustín Seyral,Sarmiento–J,DF,21.0,0,0,720,150000.0,Defensor,5.0861,-0.8264,2.4866,122
+Juan Sforza,Talleres–C,MF,24.0,0,0,1002,1300000.0,Mediocampista,2.5621,-0.5643,2.1376,541
+Tomás Silva,Platense,DF,23.0,0,0,1170,2000000.0,Defensor,5.7381,-0.326,2.7266,53
+Pedro Silva Torrejón,Gimnasia–LP,DF,29.0,0,1,1374,1200000.0,Defensor,4.7465,0.0845,2.0215,162
+Thiago Silvero,Vélez Sarsfield,DF,20.0,0,0,196,300000.0,Defensor,5.4428,0.1324,2.4191,78
+Valentino Simoni,Gimnasia–M,FW,22.0,1,0,595,,Delantero,1.3084,1.1489,0.6095,659
+Mauro Smarra Vargas,Dep. Riestra,FW,27.0,0,0,268,,Delantero,0.5324,0.1911,0.9659,692
+Augusto Solari,Unión,MF,34.0,0,0,176,125000.0,Mediocampista,2.1394,0.7609,0.9038,593
+Santiago Solari,Racing Club,"FW,MF",28.0,2,3,1130,3200000.0,Mediocampista,2.7831,1.8821,0.7147,501
+Alan Sosa,Aldosivi,"MF,FW",23.0,0,0,512,,Mediocampista,2.9648,0.0524,2.075,462
+Diego Sosa,Instituto,"MF,DF",28.0,1,2,1369,800000.0,Defensor,4.3648,1.1792,1.4784,211
+Gonzalo Sosa,Racing Club,FW,21.0,0,0,96,150000.0,Delantero,-0.1643,-0.6366,1.2338,707
+José Sosa,Estudiantes–LP,MF,40.0,0,1,218,50000.0,Mediocampista,3.3102,2.02,1.0737,403
+Santiago Sosa,Racing Club,"MF,DF",27.0,0,1,1412,8000000.0,Defensor,4.6589,-0.3894,2.1073,169
+Santiago Sosa,Racing Club,"MF,DF",27.0,0,1,1412,8000000.0,Defensor,4.6589,-0.3894,2.1073,169
+Santiago Sosa,Racing Club,"MF,DF",27.0,0,1,1412,2000000.0,Defensor,4.6589,-0.3894,2.1073,169
+Santiago Sosa,Racing Club,"MF,DF",27.0,0,1,1412,2000000.0,Defensor,4.6589,-0.3894,2.1073,169
+Santiago Sosa,Defensa,MF,21.0,0,0,1285,8000000.0,Mediocampista,1.9834,-0.5618,1.6419,608
+Santiago Sosa,Defensa,MF,21.0,0,0,1285,8000000.0,Mediocampista,1.9834,-0.5618,1.6419,608
+Santiago Sosa,Defensa,MF,21.0,0,0,1285,2000000.0,Mediocampista,1.9834,-0.5618,1.6419,608
+Santiago Sosa,Defensa,MF,21.0,0,0,1285,2000000.0,Mediocampista,1.9834,-0.5618,1.6419,608
+David Sotelo,Newell's,MF,22.0,0,0,267,200000.0,Mediocampista,2.723,1.2339,1.0904,513
+Alexis Soto,Rosario Central,DF,32.0,1,0,787,1200000.0,Defensor,5.0614,0.7737,2.0076,124
+Guillermo Soto,Tigre,DF,32.0,0,0,298,300000.0,Defensor,1.725,-0.0358,0.2711,632
+Lucas Souto,Defensa,"DF,MF",27.0,1,0,1305,400000.0,Defensor,5.2773,0.0342,2.3498,95
+Adrián Sporle,Belgrano,DF,30.0,0,0,733,300000.0,Defensor,4.7163,-0.3752,2.1371,165
+Alexis Steimbach,Gimnasia–LP,DF,23.0,0,3,1337,2200000.0,Defensor,5.8442,0.5745,2.528,50
+Sheyko Studer,Ind. Rivadavia,DF,23.0,2,0,1170,6000000.0,Defensor,4.467,0.9829,1.5957,197
+Lucas Suárez,Sarmiento–J,DF,31.0,0,0,640,400000.0,Defensor,3.8986,-0.5623,1.7083,286
+Ian Subiabre,River Plate,MF,19.0,1,2,753,3500000.0,Mediocampista,3.1603,2.5784,0.5779,433
+Tomás Sultani,Tigre,GK,27.0,0,0,90,50000.0,Portero,2.9514,-1.0,0.4914,471
+Gastón Suso,Atlé Tucumán,DF,35.0,0,0,1417,275000.0,Defensor,3.978,-0.7882,1.8207,272
+Enzo Taborda,Barracas Central,FW,21.0,0,0,174,100000.0,Delantero,0.744,0.3014,1.1126,684
+Nicolás Talpone,Estudiantes–RC,"MF,FW",30.0,0,0,788,,Mediocampista,2.1794,0.0423,1.4113,587
+Iván Tapia,Barracas Central,MF,27.0,1,1,1170,1200000.0,Mediocampista,2.4213,1.2138,0.846,560
+Cristian Tarragona,Unión,FW,35.0,7,0,1379,200000.0,Delantero,3.5876,3.5054,0.3009,340
+Renzo Tesuri,Atlé Tucumán,MF,30.0,2,1,1230,1000000.0,Mediocampista,2.6443,1.3388,0.9541,530
+Horacio Tijanovich,C. Córdoba–SdE,"MF,FW",30.0,0,2,583,250000.0,Mediocampista,3.301,2.2242,0.9314,404
+Matías Tissera,Instituto,FW,29.0,1,0,148,600000.0,Delantero,5.317,5.5603,-0.3646,92
+Fernando Tobio,Barracas Central,DF,36.0,2,0,1251,125000.0,Defensor,3.6983,0.7201,1.2178,319
+Franco Torres,Gimnasia–LP,MF,27.0,2,0,592,300000.0,Mediocampista,3.4628,2.5186,0.8755,362
+Marcelo Torres,Gimnasia–LP,FW,28.0,7,1,1244,2800000.0,Delantero,3.4775,3.5242,0.1015,360
+Nicolás Tripichio,CA San Lorenzo,MF,30.0,0,0,1288,2000000.0,Mediocampista,3.0905,-0.032,2.238,445
+Diego Valdés,Vélez Sarsfield,MF,32.0,0,5,677,2800000.0,Mediocampista,3.9663,2.8277,1.1016,273
+Facundo Valdéz,Independiente,MF,20.0,0,0,132,200000.0,Mediocampista,0.6132,-0.5577,0.4697,689
+Sebastián Valdez,Independiente,DF,30.0,0,0,1082,1500000.0,Defensor,4.3495,-0.7702,2.0351,214
+Matías Valenti,Estudiantes–RC,DF,23.0,0,0,906,,Defensor,3.7603,-0.8464,1.709,307
+Milton Valenzuela,Independiente,DF,27.0,0,0,303,550000.0,Defensor,2.9901,-0.2066,1.0682,454
+Mauro Valiente,Estudiantes–RC,"MF,FW",26.0,1,0,584,,Mediocampista,3.5093,1.9411,1.2956,353
+Luciano Vallejo,Atlé Tucumán,DF,22.0,0,0,338,50000.0,Defensor,4.1653,-0.3601,1.8071,241
+Yoshan Valois,Lanús,FW,21.0,1,0,369,1300000.0,Delantero,1.1373,1.5838,-0.3566,667
+Diego Valoyes,Talleres–C,MF,29.0,0,1,278,1500000.0,Mediocampista,2.7554,1.9118,0.6715,510
+Lucas Varaldo,C. Córdoba–SdE,FW,24.0,0,0,310,250000.0,Delantero,0.122,-0.0284,0.6902,703
+Lautaro Vargas,Unión,DF,21.0,0,2,1298,3500000.0,Defensor,5.039,0.4841,2.0785,128
+Franco Vázquez,Belgrano,MF,37.0,2,0,1105,600000.0,Mediocampista,3.4023,1.2711,1.6457,382
+Ignacio Vázquez,Platense,DF,29.0,1,0,990,2500000.0,Defensor,5.9481,-0.1093,2.7878,43
+Kevin Vázquez,Ind. Rivadavia,MF,25.0,0,0,93,225000.0,Mediocampista,0.2076,-0.4334,0.0416,701
+César Vega,Atlé Tucumán,MF,22.0,0,0,264,,Mediocampista,5.7748,-0.7471,5.0,52
+Alan Velasco,Boca Juniors,"MF,FW",23.0,2,1,338,2800000.0,Mediocampista,7.2131,5.3696,2.1986,17
+Juan Velazquez,Belgrano,MF,21.0,0,0,367,1700000.0,Mediocampista,2.9565,0.2625,1.9295,469
+Alejo Véliz,Rosario Central,FW,22.0,4,0,1008,4000000.0,Delantero,2.9271,3.0352,0.0465,474
+Fausto Vera,River Plate,MF,26.0,0,0,992,4500000.0,Mediocampista,2.4459,-0.0019,1.6679,557
+Federico Vera,Huracán,DF,28.0,0,0,450,1000000.0,Defensor,5.0992,-0.3245,2.3487,121
+Matías Vera,C. Córdoba–SdE,MF,30.0,0,1,1192,350000.0,Mediocampista,2.9951,0.0572,2.0977,453
+Duván Vergara,Racing Club,"FW,MF",29.0,2,0,439,2300000.0,Mediocampista,5.1165,3.5251,1.624,117
+Álex Verón,Vélez Sarsfield,MF,17.0,0,0,158,250000.0,Mediocampista,1.8752,-0.5386,1.5343,622
+Elías Verón,Rosario Central,DF,19.0,0,0,90,,Defensor,6.7222,-0.491,3.356,26
+Luciano Vietto,CA San Lorenzo,"MF,FW",32.0,2,0,483,1200000.0,Mediocampista,3.8003,3.3455,0.6189,301
+Alex Vigo,Talleres–C,DF,27.0,0,0,369,600000.0,Defensor,6.1344,-0.4959,3.0101,38
+Maximiliano Villa,Atlé Tucumán,DF,29.0,1,1,999,375000.0,Defensor,5.2022,0.9998,2.0252,104
+Sebastián Villa,Ind. Rivadavia,"FW,MF",30.0,0,5,1041,6000000.0,Mediocampista,3.9513,3.5729,0.598,277
+Carlos Villalba,Sarmiento–J,MF,27.0,1,0,527,450000.0,Mediocampista,3.5799,1.5661,1.6029,342
+Iván Villalba,Ind. Rivadavia,DF,31.0,0,0,1031,800000.0,Defensor,3.8324,-0.5386,1.6622,297
+Juan Villalba,Tigre,DF,20.0,0,0,90,300000.0,Defensor,2.382,-0.3571,0.7525,566
+Alejandro Villareal,Aldosivi,"FW,MF",20.0,0,0,239,,Mediocampista,1.9583,0.1494,1.1521,612
+Lautaro Villegas,Banfield,MF,22.0,0,0,729,325000.0,Mediocampista,2.122,-0.7085,1.8568,594
+Matías Viña,River Plate,"DF,MF",28.0,0,0,402,3500000.0,Defensor,3.8325,0.2804,1.4247,296
+Sergio Vittor,Banfield,DF,37.0,0,0,1008,100000.0,Defensor,4.4926,-0.7897,2.1252,193
+Emiliano Viveros,Arg Juniors,"FW,MF",23.0,1,1,624,800000.0,Mediocampista,3.015,2.0497,0.8022,452
+Facundo Waller,Huracán,MF,29.0,1,0,1116,1700000.0,Mediocampista,3.6479,0.6034,2.2951,330
+Franco Watson,Lanús,"MF,FW",26.0,0,0,432,600000.0,Mediocampista,1.5806,0.1544,0.8264,640
+Nicólas Watson,Dep. Riestra,"MF,DF",28.0,0,0,736,600000.0,Defensor,3.7089,-0.0299,1.4417,317
+Marcelo Weigandt,Boca Juniors,DF,26.0,0,0,730,1700000.0,Defensor,5.1279,-0.2307,2.3384,113
+Axel Werner,Aldosivi,GK,30.0,0,0,1350,,Portero,3.6166,-0.9666,0.7888,338
+Cristian Zabala,Sarmiento–J,MF,28.0,1,0,1359,900000.0,Mediocampista,2.9654,0.1479,2.0126,461
+Facundo Zabala,Independiente,DF,27.0,0,1,1137,1800000.0,Defensor,5.1349,0.3182,2.1832,111
+David Zalazar,Banfield,MF,24.0,1,2,737,300000.0,Mediocampista,5.1413,3.4441,1.6986,110
+Maximiliano Zalazar,Gimnasia–LP,MF,25.0,0,0,182,375000.0,Mediocampista,4.4368,2.0684,2.0035,198
+Nicolás Zalazar,Aldosivi,DF,29.0,0,1,1242,,Defensor,4.888,-0.2745,2.2094,144
+Franco Zapiola,Platense,MF,25.0,2,0,1044,1500000.0,Mediocampista,3.1776,2.3,0.7761,431
+Federico Zaracho,Racing Club,"MF,FW",28.0,2,0,535,,Mediocampista,2.9551,2.1241,0.7021,470
+Exequiel Zeballos,Boca Juniors,"FW,MF",24.0,1,3,457,7000000.0,Mediocampista,4.7738,4.318,0.8093,158
+Lucas Zelarayán,Belgrano,"MF,FW",33.0,4,1,1135,2800000.0,Mediocampista,3.5848,3.1938,0.5349,341
+Felipe Zenobio,Tigre,GK,26.0,0,0,1350,3500000.0,Portero,3.4585,-0.9889,0.7195,365
+Kevin Zenon,Boca Juniors,FW,24.0,0,0,216,3500000.0,Delantero,1.4035,0.9088,1.1438,651
+Bruno Zuculini,Racing Club,MF,33.0,0,1,571,400000.0,Mediocampista,3.2778,-0.0036,2.379,411
+Iker Zufiaurre,Boca Juniors,FW,20.0,1,0,218,200000.0,Delantero,2.6703,2.5749,0.3962,525

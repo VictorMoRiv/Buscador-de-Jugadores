@@ -1,0 +1,176 @@
+<!-- ══════════════════════════════════════════════════
+     SECCIÓN: SCOUT
+══════════════════════════════════════════════════ -->
+<section id="section-scout" class="section active">
+
+<!-- Selector de equipo -->
+<!-- Cabecera del Scout con Escudo del Equipo a la izquierda y Logo de la Liga a la derecha -->
+<div class="scout-header" style="display: flex; align-items: center; justify-content: space-between; gap: 16px; margin-bottom: 20px; width: 100%;">
+
+  <!-- LADO IZQUIERDO: Escudo + Selector -->
+  <div style="display: flex; align-items: center; gap: 16px;">
+    <!-- Contenedor del Escudo del Equipo -->
+    <div style="display: flex; align-items: center; justify-content: center; width: 75px; height: 75px; background: rgba(255,255,255,0.05); border-radius: 8px; padding: 4px;">
+      <img id="team-select-shield" src="" alt="Escudo" style="width: 100%; height: 100%; object-fit: contain; display: none;" onerror="this.style.display='none'">
+    </div>
+
+    <!-- Bloque del Selector -->
+    <div class="select-wrapper" style="width: 250px;">
+      <label class="select-label" style="display: block; font-size: 11px; letter-spacing: 1px; margin-bottom: 4px;">EQUIPO</label>
+      <select id="team-select" class="select-input" style="width: 100%;">
+        <option value="">Cargando equipos...</option>
+      </select>
+    </div>
+  </div>
+
+  <!-- LADO DERECHO: Logo de la Liga Profesional -->
+
+
+</div>
+    <h1 class="section-heading" id="nombre-equipo"></h1>
+    <!-- Métricas -->
+    <div class="metrics-grid" id="scout-metrics">
+      <div class="metric-card skeleton"></div>
+      <div class="metric-card skeleton"></div>
+      <div class="metric-card skeleton"></div>
+      <div class="metric-card skeleton"></div>
+      <div class="metric-card skeleton"></div>
+    </div>
+
+    <!-- Grid principal -->
+    <div class="scout-grid">
+
+      <!-- Diagnóstico -->
+      <div class="card" id="card-diagnosis">
+        <div class="card-header">
+          <span class="card-title">Diagnóstico del plantel</span>
+        </div>
+        <div class="card-body" id="diagnosis-body">
+          <div class="skeleton-lines"></div>
+        </div>
+      </div>
+
+      <!-- Resultados -->
+      <div class="card" id="card-results">
+        <div class="card-header">
+          <span class="card-title">Resultados</span>
+          <span class="card-badge" id="results-pts">— pts</span>
+        </div>
+        <div class="card-body">
+          <div class="wdl-row" id="wdl-row"></div>
+          <canvas id="wdl-chart" height="120"></canvas>
+        </div>
+      </div>
+
+      <!-- Plantel -->
+      <div class="card" id="card-plantel">
+        <div class="card-header">
+          <span class="card-title">Plantel completo</span>
+          <div class="card-tabs" id="plantel-tabs">
+            <button class="tab-btn active" data-pos="">Todos</button>
+            <button class="tab-btn" data-pos="Portero">POR</button>
+            <button class="tab-btn" data-pos="Defensor">DEF</button>
+            <button class="tab-btn" data-pos="Mediocampista">MED</button>
+            <button class="tab-btn" data-pos="Delantero">DEL</button>
+          </div>
+        </div>
+        <div class="card-body plantel-scroll">
+          <table class="data-table" id="plantel-table">
+            <thead>
+              <tr>
+                <th>Jugador</th><th>Pos</th><th>Edad</th>
+                <th>Goles</th><th>Asist.</th><th>Min.</th>
+                <th>Amarillas</th><th>Valor</th>
+              </tr>
+            </thead>
+            <tbody id="plantel-body"></tbody>
+          </table>
+        </div>
+      </div>
+
+    </div><!-- /scout-grid -->
+
+    <!-- Recomendador -->
+    <div class="recommender-section">
+      <div class="section-eyebrow">RECOMENDADOR DE REFUERZOS</div>
+      <h2 class="section-heading">Candidatos externos</h2>
+
+      <div class="filters-row">
+        <div class="filter-group">
+          <label class="filter-label">Edad máx.</label>
+          <input type="range" id="f-age" min="17" max="40" value="30" class="range-input">
+          <span class="range-val" id="f-age-val">30</span>
+        </div>
+        <div class="filter-group">
+          <label class="filter-label">Valor máx. (€M)</label>
+          <input type="range" id="f-mv" min="0.1" max="20" step="0.5" value="10" class="range-input">
+          <span class="range-val" id="f-mv-val">€10M</span>
+        </div>
+        <div class="filter-group">
+          <label class="filter-label">Min. jugados</label>
+          <input type="range" id="f-min" min="0" max="1500" step="50" value="200" class="range-input">
+          <span class="range-val" id="f-min-val">200'</span>
+        </div>
+        <div class="filter-group">
+          <label class="filter-label">Posición</label>
+          <div class="pos-toggle" id="pos-toggle">
+            <button class="pos-btn active" data-pos="Portero">POR</button>
+            <button class="pos-btn active" data-pos="Defensor">DEF</button>
+            <button class="pos-btn active" data-pos="Mediocampista">MED</button>
+            <button class="pos-btn active" data-pos="Delantero">DEL</button>
+          </div>
+        </div>
+        <button class="btn-primary" id="btn-search">Buscar candidatos</button>
+      </div>
+
+      <div id="candidates-grid" class="candidates-grid"></div>
+    </div>
+
+    <!-- Comparador -->
+    <div class="compare-section">
+      <div class="section-eyebrow">COMPARADOR</div>
+      <h2 class="section-heading">Comparar jugadores</h2>
+
+      <div class="compare-controls" id="compare-controls">
+        <div class="select-wrapper">
+          <label class="select-label">DEL EQUIPO</label>
+          <div class="ac-wrap">
+            <input id="cmp-p1" class="select-input" placeholder="Escribí para buscar...">
+            <div class="ac-dropdown" id="ac-team"></div>
+          </div>
+        </div>
+        <div id="cmp-slots">
+          <div class="cmp-slot">
+            <label class="select-label">OTRO JUGADOR</label>
+            <div class="ac-wrap">
+              <input class="select-input cmp-p-extra" placeholder="Escribí para buscar...">
+              <div class="ac-dropdown" id="ac-all"></div>
+            </div>
+          </div>
+        </div>
+        <button class="btn-icon" id="btn-cmp-add" title="Añadir jugador">+</button>
+        <button class="btn-primary" id="btn-compare">Comparar</button>
+      </div>
+
+      <div id="compare-result" class="compare-result hidden">
+        <div class="compare-cards" id="compare-cards"></div>
+        <div class="charts-tabs">
+          <button class="chart-tab active" data-chart="radar">Radar</button>
+          <button class="chart-tab" data-chart="bars">Barras</button>
+          <button class="chart-tab" data-chart="percentile">Percentiles</button>
+        </div>
+        <div class="chart-area">
+          <canvas id="chart-radar" class="chart-canvas active"></canvas>
+          <canvas id="chart-bars" class="chart-canvas"></canvas>
+          <div id="chart-percentile" class="chart-canvas percentile-grid"></div>
+        </div>
+        <table class="data-table" id="compare-table">
+          <thead id="cmp-thead">
+            <tr><th>Estadística</th><th>Jugador</th><th id="cmp-h-more" colspan="9">Valores</th></tr>
+          </thead>
+          <tbody id="compare-body"></tbody>
+        </table>
+      </div>
+    </div>
+
+  </section>

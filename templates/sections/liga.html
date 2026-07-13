@@ -1,0 +1,79 @@
+<!-- ══════════════════════════════════════════════════
+     SECCIÓN: LIGA
+══════════════════════════════════════════════════ -->
+<section id="section-liga" class="section active">
+
+      <div class="section-eyebrow">TEMPORADA 2025</div>
+      <h2 class="section-heading">Liga Profesional Argentina</h2>
+
+      <div class="metrics-grid" id="liga-metrics"></div>
+
+      <div class="standings-grid">
+        <!-- ZONA A -->
+        <div class="card">
+          <div class="card-header">
+            <span class="card-title">Zona A</span>
+            <span class="card-badge blue">15 equipos</span>
+          </div>
+          <div class="card-body">
+            <table class="data-table standings-table" id="table-zona-a">
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>Equipo</th>
+                  <th>PJ</th>
+                  <th>G</th>
+                  <th>E</th>
+                  <th>P</th>
+                  <th>GF</th>
+                  <th>GC</th>
+                  <th>DG</th>
+                  <th>VI</th>
+                  <th>Pts</th>
+                </tr>
+              </thead>
+              <tbody id="body-zona-a"></tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- ZONA B -->
+        <div class="card">
+          <div class="card-header">
+            <span class="card-title">Zona B</span>
+            <span class="card-badge red">15 equipos</span>
+          </div>
+          <div class="card-body">
+            <table class="data-table standings-table" id="table-zona-b">
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>Equipo</th>
+                  <th>PJ</th>
+                  <th>G</th>
+                  <th>E</th>
+                  <th>P</th>
+                  <th>GF</th>
+                  <th>GC</th>
+                  <th>DG</th>
+                  <th>VI</th>
+                  <th>Pts</th>
+                </tr>
+              </thead>
+              <tbody id="body-zona-b"></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+
+    <div class="liga-charts-grid">
+      <div class="card">
+        <div class="card-header"><span class="card-title">Top 15 goleadores</span></div>
+        <div class="card-body"><canvas id="liga-scorers" height="250"></canvas></div>
+      </div>
+      <div class="card">
+        <div class="card-header"><span class="card-title">Valor de mercado por equipo</span></div>
+        <div class="card-body"><canvas id="liga-values" height="280"></canvas></div>
+      </div>
+    </div>
+  </section>
